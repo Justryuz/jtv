@@ -1,0 +1,50 @@
+name: M3U merger
+
+on:
+  schedule:
+    - cron: '0 0/2 * * *'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: config
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+
+      # Pull latest changes from main
+      - name: git pull
+        run: |
+          git pull origin main
+
+      - name: Delete log
+        run: |
+          rm -rf ./log.txt
+
+      - name: Main
+        run: |
+          chmod +x merge.sh
+          ./merge.sh
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code || echo "git-diff-changed=true" >> $GITHUB_ENV
+
+      - name: git add
+        if: env.git-diff-changed == 'true'
+        run: |
+          git add -A
+
+      - name: commit & push
+        if: env.git-diff-changed == 'true'
+        run: |
+          git commit -m "links are updated"
+          git push

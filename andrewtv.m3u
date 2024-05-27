@@ -1,0 +1,52 @@
+#EXTM3U
+#CANALESECUADOR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2471
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EHLVmOi.png" group-title="ECUADOR",ECUAVISA 2
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1535
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQGUZQJ.png" group-title="ECUADOR",RTS
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AKjysS.png" group-title="ECUADOR",RTS 2
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1515
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTb0bHk.png" group-title="ECUADOR",TELEAMAZONAS
+https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0KcGSbY.png" group-title="ECUADOR",TELEAMAZONAS 2
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1522
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bu1KBvE.png" group-title="ECUADOR",ECUADOR TV
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2465
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CvwRgyi.png" group-title="ECUADOR",GAMAVISION
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1537
+#EXTINF:-1 tvg-logo="https://i.imgur.com/saF8hB3.png" group-title="ECUADOR",GAMAVISION 2
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1560
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HoMlSh.png" group-title="ECUADOR",TC TELEVISIÓN
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2448
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jS9ItVh.png" group-title="ECUADOR",TC TELEVISIÓN 2
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/27483
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTnLYwT.png" group-title="ECUADOR",OROMAR TV 1
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2458
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hL4JKM7.png" group-title="ECUADOR",OROMAR TV 2
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1528
+
+#DEPORTES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/25913
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV 2
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/25914
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="DEPORTES",ECDF 1
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5734
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="DEPORTES",ECDF 2
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/121126
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdkYnb0.png" group-title="DEPORTES",NBA TV
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/113849
+
+#24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WVJbdw.jpg" group-title="24/7", EL CHAVO DEL 8
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/91947
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qaGehVh.jpg" group-title="24/7",BOB SPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUr85Au.jpg" group-title="24/7",BEN 10
+http://51.159.104.29:8080/ben10/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sbBegk.jpg" group-title="24/7",DRAGON BALL GT
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/92015
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4we1qn.jpg" group-title="24/7",CABALLEROS DEL ZODIACO
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/91999

@@ -1,0 +1,45 @@
+name: M3U generator
+
+on:
+  # Triggers the workflow manually and on a schedule every hour
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Script
+        run: python scripts/generator.py
+
+      - name: Check for Changes
+        id: git-check
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected."
+            echo "::set-output name=changes_exist::false"
+          else
+            echo "Changes detected."
+            echo "::set-output name=changes_exist::true"
+          fi
+
+      - name: Commit Changes
+        if: steps.git-check.outputs.changes_exist == 'true'
+        run: |
+          git config --global user.email "visionintegral@gmail.com"
+          git config --global user.name "zeknewbe"
+          git add -A
+          git commit -m "Update M3U Playlist"
+          git push

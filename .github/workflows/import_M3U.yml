@@ -1,0 +1,55 @@
+name: IMPORT_M3U
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # This runs every 12 hours
+  workflow_dispatch:  # This allows manual triggering
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout destination repo
+        uses: actions/checkout@v2
+        with:
+          repository: zeknewbe/porong
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: dest-repo
+
+      - name: Import M3U File
+        env:
+          GIT_EMAIL: visionintegral@gmail.com
+          GIT_NAME: zeknewbe
+          SOURCE_REPO: jsosao/m3u
+          SOURCE_FILE: mylist.m3u8
+          SOURCE_BRANCH: main
+          DEST_PATH: mylist.m3u8  # The destination path in the repository
+        run: |
+          # Navigate to the destination repository directory
+          cd dest-repo
+
+          # Add source repo as a remote and fetch the file
+          echo "Adding source repository as remote..."
+          git remote add source_repo "https://github.com/$SOURCE_REPO.git"
+          git fetch source_repo $SOURCE_BRANCH
+
+          # Checkout the specific file from source repo
+          echo "Checking out file from source repository..."
+          git checkout source_repo/$SOURCE_BRANCH -- "$SOURCE_FILE"
+
+          # Setting up Git configuration
+          git config user.email "$GIT_EMAIL"
+          git config user.name "$GIT_NAME"
+
+          # Check if there are any files to commit
+          if [[ `git status --porcelain` ]]; then
+            echo "Changes detected, committing the file..."
+            git add "$SOURCE_FILE"
+            git commit -m "Imported $SOURCE_FILE from $SOURCE_REPO"
+            echo "Pushing changes to the repository..."
+            git push origin main
+            echo "File imported successfully!"
+          else
+            echo "No changes detected, nothing to commit."
+          fi

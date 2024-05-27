@@ -1,0 +1,47 @@
+name: Import EPG
+
+on:
+  schedule:
+    - cron: '0 0/12 * * *'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.9
+
+      - name: config
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Execute Main Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/import_epg.py
+
+      - name: Commit & Push if there are changes
+        run: |
+          git add -A
+          if git diff --quiet --staged; then
+            echo "No changes to commit"
+            exit 0
+          else
+            git commit -m "links are updated"
+            git push
+          fi
