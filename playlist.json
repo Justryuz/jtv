@@ -27,5 +27,34 @@
     "replaced_by": "",
     "website": "https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bloomberg_Television_logo.svg"
+  },
+  {
+    "id": "",
+    "name": "LofiGirl",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://www.youtube.com/@LofiGirl/Live",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bloomberg_Television_logo.svg"
   }
 ]

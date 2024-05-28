@@ -524,3 +524,5 @@
 2024-05-28 02:02:36,113 - debug - URL ends with a valid streaming suffix: https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 2024-05-28 02:02:37,262 - error - URL Error https://www.youtube.com/watch?v=qSTO_UF1fwg: Unable to open URL: https://www.youtube.com/watch?v=qSTO_UF1fwg (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DqSTO_UF1fwg&q=EgQ06iYtGLz21LIGIjCjzAyqE-dCh-45bEX4SbbtbfDn8kyLEPcNb8NBnIGQeJalV6BzarRrAdc83YwVDkQyAXJaAUM)
 2024-05-28 02:02:37,262 - warning - Unreachable or unsupported URL: https://www.youtube.com/watch?v=qSTO_UF1fwg
+2024-05-28 02:10:55,415 - debug - URL ends with a valid streaming suffix: https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+2024-05-28 02:10:56,184 - error - URL Error No PluginError https://www.youtube.com/@LofiGirl/Live: 
