@@ -526,3 +526,5 @@
 2024-05-28 02:02:37,262 - warning - Unreachable or unsupported URL: https://www.youtube.com/watch?v=qSTO_UF1fwg
 2024-05-28 02:10:55,415 - debug - URL ends with a valid streaming suffix: https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 2024-05-28 02:10:56,184 - error - URL Error No PluginError https://www.youtube.com/@LofiGirl/Live: 
+2024-05-28 02:12:37,355 - debug - URL ends with a valid streaming suffix: https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+2024-05-28 02:12:41,784 - error - URL Error No PluginError https://www.youtube.com/@LofiGirl/Live: 
