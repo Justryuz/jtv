@@ -14,31 +14,31 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716886947/ei/
 refresh="3600"
 
 #EXTINF:-1 tvg-chno="1101" tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png",RTM TV1 🇲🇾
-#EXTGRP:Basic TV
+#EXTGRP:RTM TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1102" tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTM2.png",RTM TV2 🇲🇾
-#EXTGRP:Basic TV
+#EXTGRP:RTM TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1103" tvg-id="Okey.my" tvg-name="Okey" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM_Okey.png",RTM Okey 🇲🇾
-#EXTGRP:Basic TV
+#EXTGRP:RTM TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1104" tvg-id="Sukan RTM.my" tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Sukan_RTM.png",Sukan RTM 🇲🇾
-#EXTGRP:Basic TV
+#EXTGRP:RTM TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1105" tvg-id="Berita RTM.my" tvg-name="Berita RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Berita_RTM.png",Berita RTM 🇲🇾
-#EXTGRP:Basic TV
+#EXTGRP:RTM TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1106" tvg-id="TV6.my" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM6.png",RTM TV6 🇲🇾
-#EXTGRP:Basic TV
+#EXTGRP:RTM TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
