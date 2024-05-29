@@ -64,8 +64,14 @@ if __name__ == "__main__":
         print("ERROR: GITHUB_TOKEN not set!")
         exit(1)
 
-    tree1 = fetch_xml('https://i.mjh.nz/PlutoTV/cl.xml')
+    tree1 = fetch_xml('https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml')
+    tree2 = fetch_xml('https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml')
+    tree2 = fetch_xml('https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml')
+    tree2 = fetch_xml('https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml')
+    tree2 = fetch_xml('https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml')
+    tree2 = fetch_xml('https://i.mjh.nz/PlutoTV/all.xml.gz')
     tree2 = fetch_xml('https://i.mjh.nz/Plex/mx.xml')
+    tree1 = fetch_xml('https://i.mjh.nz/PlutoTV/cl.xml')
 
     merged_tree = merge_trees(tree1, tree2)
     merged_xml = ET.tostring(merged_tree.getroot(), encoding='utf-8').decode('utf-8')
