@@ -206,6 +206,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6490c01f3b3ce9e1aaad95be.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877" tvg-id="608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" , Fight Network
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277" tvg-id="608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ad57bd59-edab-4fde-b4d2-97d753b4199f/Plex_FilmRise_CrimenesVerdaderos_Color_Logo.png" , FilmRise Crimenes Veradaderos
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869" tvg-id="608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869" tvg-logo="https://provider-static.plex.tv/epg/cms/production/68708f25-5fbe-4553-8458-614df346dec2/Plex_FilmRise_SeriesGratis_Color_Logo.png" , FilmRise Series Gratis
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869.m3u8
 
@@ -280,6 +283,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5fd115bdb7ef8d002dcf1820" tvg-id="608049aefa2b8ae93c2c3a63-5fd115bdb7ef8d002dcf1820" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" , Hard Knocks
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fd115bdb7ef8d002dcf1820.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-664296050e0ec7b4ce5eb290" tvg-id="608049aefa2b8ae93c2c3a63-664296050e0ec7b4ce5eb290" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e669ddf-b972-4398-ac8d-7f93308b9632/HelloInspo_PLEX_1500x1000_LIGHT_DARK_BG_COLOR_LOGORDX.png" , Hello Inspo
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-664296050e0ec7b4ce5eb290.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e" tvg-id="608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png" , Hip-Hop/R&B
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e.m3u8
