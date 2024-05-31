@@ -215,7 +215,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f5132e162fe160040f26bdb" tvg-id="608049aefa2b8ae93c2c3a63-5f5132e162fe160040f26bdb" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" , Filmstream
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f5132e162fe160040f26bdb.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62c8a2d2d774648bcc76a116" tvg-id="608049aefa2b8ae93c2c3a63-62c8a2d2d774648bcc76a116" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" , Fite 24/7
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62c8a2d2d774648bcc76a116" tvg-id="608049aefa2b8ae93c2c3a63-62c8a2d2d774648bcc76a116" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd431a27-e327-4390-bc96-7782c2953cba/fite-24-7.png" , Fite 24/7
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62c8a2d2d774648bcc76a116.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62f15810a3ffe928ef806c75" tvg-id="608049aefa2b8ae93c2c3a63-62f15810a3ffe928ef806c75" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png" , Flashback 70s
@@ -625,9 +625,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-614398a08f30fa61e0da7c97.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607" tvg-id="608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" , USA TODAY
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8609" tvg-id="608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8609" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ff63bc1-4325-4b46-81af-6d2e48822b65/USAT_Sports_white2_1500x1000.png" , USA TODAY SPORTS
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8609.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64e6eff227a915f9b5184e9e" tvg-id="608049aefa2b8ae93c2c3a63-64e6eff227a915f9b5184e9e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63ad0b3b-b708-4160-896c-a7c5e11b36e0/Ultimate_Classic_Wrestling_-_WHiteRDX.png" , Ultimate Classic Wrestling
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6eff227a915f9b5184e9e.m3u8
