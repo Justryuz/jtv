@@ -55,7 +55,7 @@ http://openhls-tct.douyucdn2.cn/dyliveflv3/1226741rElFDFSUk_2000.m3u8?txSecret=f
 http://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8?txSecret=65d5d8466f099aaff25c52a52eded82d&txTime=665ee34b&token=h5-douyu-0-20415-215919c10b362e80022832406d05df7c&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=392367257
 
 ############## ROCK ##################
-
+#EXTM3U
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/84/Rock_01.jpg/220px-Rock_01.jpg", Rock 1 
 https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock.mp4
 
@@ -75,7 +75,7 @@ https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock%204-%20Rockers%20N
 
 
 ####################### Ant-Man ######################
-
+#EXTM3U
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/2786.jpg", Ant-Man (2015) 
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man.mp4
 
@@ -90,7 +90,7 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20
 
 
 ####################### AVENGERS ######################
-
+#EXTM3U
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/955.jpg", The Avengers (2012) 
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/The%20Avengers.mp4
 
@@ -109,7 +109,7 @@ https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Avengers-%20Endgame.m
 
 ####################### PLANET OF THE APES ######################
 
-
+#EXTM3U
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IZcJHsTugOdyg0Y8ejj4CM2X3a.jpg", The Apes 01 
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUqLJfn_TiJIvtljGjYk6BgBaATH6gRB6gMBluv4SnNKjw
 
@@ -128,7 +128,7 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 
 
 ####################### FAST & FURIOUS ######################
-
+#EXTM3U
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w500/gqY0ITBgT7A82poL9jv851qdnIb.jpg", The Fast and The Furious 1 
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ed_85BTygldFo0BVmMnOA5QBBwb8Iu9zlZKmJf-Gju5Ezw
 
@@ -163,7 +163,7 @@ https://storage.dewanonton.online/hls/37f2b3ab-e639-474a-a890-b9e951cd640a.mp4/i
 
 
 ####################### TRANSPOTER ######################
-
+#EXTM3U
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w500/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg", The Transporter (2002) 
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ec-qP4rgQAlGkh5IR8Y-ByQBrclpeMGZ0dv_KSHBcCmW4Q
 
@@ -182,7 +182,7 @@ https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layo
 
 ####################### JOHN WICK ######################
 
-
+#EXTM3U
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg", John Wick 01 
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUTDiYr__YRMi1m5qWQtVvEBlT6RN0N9mXW-jePR7uz2Bg
 
@@ -200,7 +200,7 @@ https://storage.dewanonton.online/hls/3e3d79c3-a19d-46c3-a231-c3df79c92673.mp4/i
 
 
 ####################### LOTR The Rings of Power ######################
-
+#EXTM3U
 #EXTINF:-1 type="series" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E01 
 https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP1.1080p.WEB-OMG.mp4
 
@@ -230,6 +230,7 @@ https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rin
 
 
 ####################### The Bourne ######################
+#EXTM3U
 #EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="VOD", The Bourne 1 
 https://www.googleapis.com/drive/v3/files/1JL4xp1GiBbXBiS_ZUJ50VgtVa6CeX008?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -241,7 +242,7 @@ https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=
 
 ####################### AVATAR ######################
 
-
+#EXTM3U
 #EXTINF:-1 type="movie" group-title="AVATAR" tvg-logo="https://i.imgur.com/djgxIhT.jpeg" group-title="VOD", AVATAR 1 
 https://stream.hownetwork.xyz/xxx/avatar-2009-bluray/10/480.m3u8
 
@@ -254,7 +255,7 @@ https://stream.hownetwork.xyz/xxx/avatar-the-way-of-water-2022-bluray/2/480.m3u8
 
 
 ####################### Transformers ######################
-
+#EXTM3U
 #EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="VOD", Transformers 1 
 https://privatemaster.xyz/cdn/stream/master/BiNuTIxLWoxzhMeSkMAFTAmXEGth1GgHuAH9MAwfjPmHaM9OpokycTYNTRYvb9QDpFz1iSDc52PUd75BH9LuyYWoNiWAMVrkbDffNQsbKRdSIlCg2rZEAn7iw5lGYMoz/master.m3u8
 
@@ -275,6 +276,7 @@ https://privatemaster.xyz/cdn/stream/master/743XWgJWf6KzszEwhOlQ4oFQ50T0LJGp5INi
 
 
 ####################### Transformers ######################
+#EXTM3U
 #EXTM3U url-tvg="
 
 
@@ -402,8 +404,8 @@ https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_
 
 
 ###################################################################################################### CHINA ###############################################################################################################
-
-
+#EXTM3U
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hCVpDEhE+7AbXq5wa8L3xg", "kid":"2xozj3HUAYb1mXywhbs/EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="335.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",CCTV4
@@ -459,8 +461,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 
 
 ###################################################################################################### INDIA ###############################################################################################################
-
-
+#EXTM3U
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="116.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Colors Hindi 
@@ -528,8 +530,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
 
 ###################################################################################################### KOREA ###############################################################################################################
-
-
+#EXTM3U
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="392.astro" tvg-logo="httpss://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",KBS World 
@@ -557,8 +559,8 @@ httpss://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mp
 
 
 ###################################################################################################### MOVIES ###############################################################################################################
-
-
+#EXTM3U
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="404.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Boo   
@@ -601,8 +603,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 
 ###################################################################################################### ENTERTAINMENT / VARIETY ###########################################################################################
-
-
+#EXTM3U
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="709.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Afn  
@@ -670,8 +672,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
 
 ###################################################################################################### KIDS ###############################################################################################################
-
-
+#EXTM3U
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="615.astro" tvg-logo="httpss://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Cartoon Network     
@@ -714,8 +716,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 
 ###################################################################################################### SPORTS ###############################################################################################################
-
-
+#EXTM3U
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Arena 
@@ -824,9 +826,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 
 ###################################################################################################### NEWS ###############################################################################################################
+#EXTM3U
 
-
-
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="513.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Al Jazeera News
@@ -875,9 +877,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
 
 
 ###################################################################################################### LIFESTYLE & KNOWLEDGE ###############################################################################################
+#EXTM3U
 
-
-
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=httpss://cloudtv-playback.stackstaging.com/linearjitp.astro.com.my/AstroGo/index/2710
 #EXTINF:-1 tvg-id="556.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Animal Planet
@@ -924,8 +926,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 
 
 ###########################################################################################################################################################################################################################
-
-
+#EXTM3U
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OKaMdJiYEUzwYp134kaoiA", "kid":"aRkWFkvisa5shS8ZkNH+EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" tvg-logo="httpss://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",212
@@ -4839,7 +4841,7 @@ https://drive.usercontent.google.com/download?id=1h1TkQazsOHfzuu910BHUyYOeGxuFCi
 
 
 ########################## linear03 #################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4885,7 +4887,7 @@ https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 
 
 ########################## linear05 #################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4907,7 +4909,7 @@ https://linear05-playback.sooka.my/CH3/masterCH3.mpd
 
 
 ########################## linear08 #################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4953,7 +4955,7 @@ https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 
 
 ########################## d1fk7kbmz4il3 #################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4999,7 +5001,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 
 ########################## d1yws6emo43ny #################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5021,7 +5023,7 @@ https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
 
 
 ########################## d277c08tzca9og #################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5043,7 +5045,7 @@ https://d277c08tzca9og.cloudfront.net/CH2/masterCH2.mpd
 
 
 ########################## d3j4fjrwclc3o8 #################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5088,7 +5090,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 
 
 ########################## dcqkiaqc3sngm #################################
-
+#EXTM3U
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
@@ -5133,7 +5135,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
 
 
 #############################################################################################################################################################################################################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6193,7 +6195,7 @@ https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_
 
 
 ###################################################################################################### CHINA ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hCVpDEhE+7AbXq5wa8L3xg", "kid":"2xozj3HUAYb1mXywhbs/EA" } ], "type":"temporary" }
@@ -6250,7 +6252,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 
 
 ###################################################################################################### INDIA ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
@@ -6319,7 +6321,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
 
 ###################################################################################################### KOREA ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
@@ -6348,7 +6350,7 @@ httpss://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mp
 
 
 ###################################################################################################### MOVIES ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
@@ -6387,7 +6389,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 
 ###################################################################################################### ENTERTAINMENT / VARIETY ###########################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
@@ -6456,7 +6458,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
 
 ###################################################################################################### KIDS ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
@@ -6500,7 +6502,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 
 ###################################################################################################### SPORTS ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
@@ -6610,7 +6612,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 
 ###################################################################################################### NEWS ###############################################################################################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6661,7 +6663,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
 
 
 ###################################################################################################### LIFESTYLE & KNOWLEDGE ###############################################################################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6710,7 +6712,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 
 
 ###########################################################################################################################################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OKaMdJiYEUzwYp134kaoiA", "kid":"aRkWFkvisa5shS8ZkNH+EA" } ], "type":"temporary" }
@@ -11794,7 +11796,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 
 ###############################################################################################################################################
-
+#EXTM3U
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://thumbor.prod.vidiocdn.com/WNbrafkmcf64UM-5pniUG-xObcI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7916/1439f9.png" group-title="Sports Testing",Liverpool FC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12673,7 +12675,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 
 ########################################################TAMIL########################################################
-
+#EXTM3U
 #EXTINF:-1 tvg-id="241" ch-number=" " tvg-name="ABO Movies Thangathirai HD" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/TAMIL.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="Other",241 Box Office Thangathirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
@@ -12944,7 +12946,7 @@ https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_
 
 
 ###################################################################################################### CHINA ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hCVpDEhE+7AbXq5wa8L3xg", "kid":"2xozj3HUAYb1mXywhbs/EA" } ], "type":"temporary" }
@@ -13001,7 +13003,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 
 
 ###################################################################################################### INDIA ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
@@ -13070,7 +13072,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
 
 ###################################################################################################### KOREA ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
@@ -13099,7 +13101,7 @@ httpss://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mp
 
 
 ###################################################################################################### MOVIES ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
@@ -13138,7 +13140,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 
 ###################################################################################################### ENTERTAINMENT / VARIETY ###########################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
@@ -13207,7 +13209,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
 
 ###################################################################################################### KIDS ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
@@ -13251,7 +13253,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 
 ###################################################################################################### SPORTS ###############################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
@@ -13361,7 +13363,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 
 ###################################################################################################### NEWS ###############################################################################################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13412,7 +13414,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
 
 
 ###################################################################################################### LIFESTYLE & KNOWLEDGE ###############################################################################################
-
+#EXTM3U
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13461,7 +13463,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 
 
 ###########################################################################################################################################################################################################################
-
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OKaMdJiYEUzwYp134kaoiA", "kid":"aRkWFkvisa5shS8ZkNH+EA" } ], "type":"temporary" }
