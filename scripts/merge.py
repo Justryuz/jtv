@@ -14,6 +14,6 @@ def merge_m3u(files, output_file):
     print(f"Merged playlists saved to {output_file}.")
 
 # Example usage after your existing M3U generation code
-files_to_merge = ['playlist.m3u', '1.vod.m3u', '2.raku.m3u','3.astro.m3u','4.unifi.m3u','5.sooka.m3u','mylist.m3u8']
+files_to_merge = ['playlist.m3u','mylist.m3u8']
 output_filename = 'merged_playlist.m3u'
 merge_m3u(files_to_merge, output_filename)
