@@ -41,6 +41,9 @@ https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5defde6d6c07b50009cf0757" tvg-id="5defde6d6c07b50009cf0757" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" tvg-chno="66" group-title="Películas" , Pluto TV  Nuestro Cine
 https://r.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-5dfcde52d28b09000a42d7a2" tvg-id="5dfcde52d28b09000a42d7a2" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" tvg-chno="70" group-title="Películas" , Pluto TV A La Mexicana
+https://r.mjh.nz/PlutoTV/5dfcde52d28b09000a42d7a2-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-609059dc63be6e0007b4eca6" tvg-id="609059dc63be6e0007b4eca6" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" tvg-chno="87" group-title="Películas" , Pluto TV Cine Clásico
 https://r.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
 
@@ -89,14 +92,23 @@ https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" tvg-chno="278" group-title="Novelas" , Pluto TV Novelas
 https://r.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-6474a7958e3c0a0008b97cae" tvg-id="6474a7958e3c0a0008b97cae" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" tvg-chno="305" group-title="Novelas" , Pluto TV Novelas de Mexico
+https://r.mjh.nz/PlutoTV/6474a7958e3c0a0008b97cae-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-646ccdd0939a5900088a1980" tvg-id="646ccdd0939a5900088a1980" tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png" tvg-chno="306" group-title="Novelas" , Corazón
 https://r.mjh.nz/PlutoTV/646ccdd0939a5900088a1980-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6474a7e7f77b6100080a89e7" tvg-id="6474a7e7f77b6100080a89e7" tvg-logo="https://images.pluto.tv/channels/6474a7e7f77b6100080a89e7/colorLogoPNG.png" tvg-chno="325" group-title="Novelas" , Pluto TV Novelas de Colombia
+https://r.mjh.nz/PlutoTV/6474a7e7f77b6100080a89e7-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-604bdf4e6d0abc0007ba77ad" tvg-id="604bdf4e6d0abc0007ba77ad" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" tvg-chno="328" group-title="Novelas" , Sin Tetas No Hay Paraíso
 https://r.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-63211ba9cad976000794f988" tvg-id="63211ba9cad976000794f988" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" tvg-chno="331" group-title="Novelas" , La Selección
 https://r.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6474a86917f5e100089a0c1c" tvg-id="6474a86917f5e100089a0c1c" tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png" tvg-chno="355" group-title="Novelas" , Pluto TV Novelas de Venezuela
+https://r.mjh.nz/PlutoTV/6474a86917f5e100089a0c1c-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" tvg-chno="380" group-title="Reality" , Pluto TV Reality
 https://r.mjh.nz/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
@@ -371,6 +383,9 @@ https://r.mjh.nz/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
 #EXTINF:-1 channel-id="pluto-656f37f257fe4a000884dfee" tvg-id="656f37f257fe4a000884dfee" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" tvg-chno="1261" group-title="Anime & Gaming" , Boruto: Naruto Next Generations
 https://r.mjh.nz/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-65d916a2f7f0af0008b6540d" tvg-id="65d916a2f7f0af0008b6540d" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" tvg-chno="1263" group-title="Anime & Gaming" , Hunter x Hunter
+https://r.mjh.nz/PlutoTV/65d916a2f7f0af0008b6540d-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" tvg-chno="1264" group-title="Anime & Gaming" , Death Note
 https://r.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
 
@@ -467,7 +482,7 @@ https://r.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6047fd723b5bd00007de7092" tvg-id="6047fd723b5bd00007de7092" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" tvg-chno="1505" group-title="Música" , MTV Spankin' New
 https://r.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="Música" , MTV Flow Latino
+#EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="Música" , MTV MIAW Pluto TV
 https://r.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" tvg-chno="1520" group-title="Música" , Conciertos por Stingray
