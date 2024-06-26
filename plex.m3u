@@ -95,9 +95,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3" tvg-id="608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png" , Choppertown
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6196a9661d310bf925e02613" tvg-id="608049aefa2b8ae93c2c3a63-6196a9661d310bf925e02613" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d0ea216c-a6a6-44c5-90b7-0ab66b568e78/christmasclassics_logo_dark.png" , Christmas Classics
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196a9661d310bf925e02613.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png" , Cine de Horror
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
 
@@ -293,9 +290,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-664296050e0ec7b4ce5eb290.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e" tvg-id="608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png" , Hip-Hop/R&B
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6582a1316b91be4547aa153c" tvg-id="608049aefa2b8ae93c2c3a63-6582a1316b91be4547aa153c" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e248bd13aa2b3e3d0eeaf6ed0db3df22.png" , Hot Ones
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6582a1316b91be4547aa153c.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814" tvg-id="608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" , Humor Mill
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814.m3u8
 
@@ -332,17 +326,11 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-656fb124cb7e8e6a9bc3f36a" tvg-id="608049aefa2b8ae93c2c3a63-656fb124cb7e8e6a9bc3f36a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" , Kidz Bop TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fb124cb7e8e6a9bc3f36a.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ba493395ddc34d7d3cfce0" tvg-id="608049aefa2b8ae93c2c3a63-62ba493395ddc34d7d3cfce0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51c4650f-7615-4bc5-8ac8-cd063d6c5a3e/Kin_Logo_White_-_George_Stewartrdx.png" , Kin
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ba493395ddc34d7d3cfce0.m3u8
-
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-631932e2f6672ff675ee5ec0" tvg-id="608049aefa2b8ae93c2c3a63-631932e2f6672ff675ee5ec0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fb210a8-0d8a-47b5-84da-f6457988f8cd/labocinalatina_logo_light_-_Jordan_Warkol.png" , La Bocina Latina
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-631932e2f6672ff675ee5ec0.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a" tvg-id="608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7253852-6779-4065-8dc4-07e7295cf348/Channel_Logo_1500x1000_Orange_Antonio_Gonzalez.png" , La Casa del Jaripeo
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27" tvg-id="608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LaCorriente_Logo_Dark.png" , La Corriente
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc79d" tvg-id="608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc79d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fbee1dfe-036c-48dd-a90b-7617a2939d45/lc-plex-1500x1000-white-color.png" , Law & Crime
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc79d.m3u8
@@ -445,9 +433,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01" tvg-id="608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e2e8eb4-a696-4dd2-9889-e218ade54a74/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" , PFL MMA
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
-
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f7f" tvg-id="608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f7f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d40e3d9-f044-4b32-bfa7-30b9b5387328/PW_Kids_1280x1080_white_trans.png" , PW Kids
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f7f.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d" tvg-id="608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" , Pac-12 Insider
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d.m3u8
