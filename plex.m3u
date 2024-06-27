@@ -290,6 +290,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-664296050e0ec7b4ce5eb290.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e" tvg-id="608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png" , Hip-Hop/R&B
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6582a1316b91be4547aa153c" tvg-id="608049aefa2b8ae93c2c3a63-6582a1316b91be4547aa153c" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e248bd13aa2b3e3d0eeaf6ed0db3df22.png" , Hot Ones
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6582a1316b91be4547aa153c.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814" tvg-id="608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" , Humor Mill
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814.m3u8
 
