@@ -65,6 +65,9 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064" tvg-id="608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" , C4 en Alerta
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7" tvg-id="608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/251b7d5a-1a42-42fd-a238-18441919a8f1/Cindie_Lite_logo_1500x1000_transparent_for_dark_background_-_Keegan_Browder.png" , CINDIE LITE
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6" tvg-id="608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" , CINEPRIDE
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
 
@@ -130,6 +133,9 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6365779dde08f8eec6c3f21f.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65e0c8c6d899afe817b9d224" tvg-id="608049aefa2b8ae93c2c3a63-65e0c8c6d899afe817b9d224" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" , Cricket Gold
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65e0c8c6d899afe817b9d224.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916" tvg-id="608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" , Death Valley Days
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-634dddc8a319c6df243f521f" tvg-id="608049aefa2b8ae93c2c3a63-634dddc8a319c6df243f521f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04cb0c34-f78d-4314-ba43-f2cb6e81136d/DPTV_Logo_BB_-_Mohit_Gattu.png" , Desi Play TV
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-634dddc8a319c6df243f521f.m3u8
@@ -485,6 +491,9 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-5f458dded93f4a0041cb1f63.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d" tvg-id="608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" , Robot Wars by Mech+
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8
 
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-66843672a017b7e51aeb28d5" tvg-id="608049aefa2b8ae93c2c3a63-66843672a017b7e51aeb28d5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1688b0a-fa63-4b15-8f80-634dd473cf23/Runtime_ES_Familia_Dark_Mode_Logordx.png" , Runtime Familia
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-66843672a017b7e51aeb28d5.m3u8
+
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a664" tvg-id="608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a664" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png" , Ryan and Friends
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a664.m3u8
 
@@ -499,6 +508,9 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6" tvg-id="608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1ddd349-0b81-4525-ba53-1912701467db/Saboreartv_1500x1000-_For_dark_backgrounds.png" , Saborear TV
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-66842aa2cd6f1d3940941159" tvg-id="608049aefa2b8ae93c2c3a63-66842aa2cd6f1d3940941159" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a8afd09-cee5-42af-aa6f-ddb9918abd19/Sangre_Fria_Dark_Mode_Logordx.png" , Sangre Fría
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-66842aa2cd6f1d3940941159.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d" tvg-id="608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" , Shemaroo Bollywood
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d.m3u8
@@ -589,6 +601,9 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-62f11395586633e88e3a3274.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-656fa24bdbcce28c3a417415" tvg-id="608049aefa2b8ae93c2c3a63-656fa24bdbcce28c3a417415" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dec2021c-78a9-47b9-ae15-5e92623ecbde/wpt_logo__1_.png" , The World Poker Tour
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-656fa24bdbcce28c3a417415.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-5f6b8e7900b0950040d0f2b2" tvg-id="608049aefa2b8ae93c2c3a63-5f6b8e7900b0950040d0f2b2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png" , The World Poker Tour
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-5f6b8e7900b0950040d0f2b2.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-631a605b260b7e21d0b819ee" tvg-id="608049aefa2b8ae93c2c3a63-631a605b260b7e21d0b819ee" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a5115427-8193-4c12-9029-d1deec7d3e55/Times_NOWrdx_WHITE_TEXT.png" , Times Now Navbharat
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-631a605b260b7e21d0b819ee.m3u8
