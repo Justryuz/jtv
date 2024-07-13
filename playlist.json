@@ -1,1 +1,611 @@
-[]
+[
+  {
+    "id": "",
+    "name": "Lofi Asian Radio",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900853/ei/lYiSZrScMM6VsfIP6qSSsAI/ip/13.91.68.208/id/Na0w3Mz46GA.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-n4v7snll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAbDn8Mh9BcrrCrDqo3vJcPOwxx3mbxxsW229E9WH6mSgjByHMQCXq41BSTA/vprv/1/playlist_type/DVR/mh/B3/mm/44/mn/sn-n4v7snll/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKTJFbgJew0vaVyDmGsh73KUVwjnY4ae6MMZywjnqkeLAiEAyjuEVg2esl3-rH50YP6WAwodFZrXSkWGaiZ_iSOCXIk%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAIdVtEGe6vu5eqho8HIbTYPW2msYN4oZmo0qq3AONXccAiEA2JCd_Xv0cGELDedjF6i8bvM5hMQkNJPlu2VXslTSfzM%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Synthwave",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900854/ei/loiSZo_wHrLVsfIP9ZW-8AM/ip/13.91.68.208/id/4xDzrJKXOOY.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-n4v7snll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAR0dL2vrmdh6vNFwUkF04H7EcDN2c70KAcfY0oLYaVo4_z4Jj2sLM90NYtw/vprv/1/playlist_type/DVR/mh/PJ/mm/44/mn/sn-n4v7snll/ms/lva/mv/u/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgeHW5BPwGPDQAQ8EuT6TiZIHKoHEeWcL39Cy5wGeLTC4CID-Eg26SLVPCrwkJ9tQPS1vH24KlsA6ecdeZG7pDeHln/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgX3Umn-IfOCIxriYmdiome5ZWcNrPHgAyh_6pILPPgJgCIQCn8AzS3LCwe4Z_oZg97Pd06WDXAl0exuLWIIChhD5lWA%3D%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Peaceful Piano",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900855/ei/l4iSZu29DoG3sfIP2OicIA/ip/13.91.68.208/id/4oStw0r33so.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-n4v7snls.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAWjtRpiwyVZhjjanAZWSgajNLAofo1VxuhiMuapTVvJ3JuitVIw3snY_hgI/vprv/1/playlist_type/DVR/mh/7t/mm/44/mn/sn-n4v7snls/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgPQSC4QD0D-Bi_5zGWTpS0UaSdvqavlV59p48WM8tR2YCIQCxWANdfyK0Dy91hZIil-kb_vJf_xnQqTE5d-IVnckl6w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgCUJH3641X6Oc0lq7u4ZzOoHLZBbnpaaLp2zTE2LD_0ACIQDigxGMIJNJuxCtZa_2vldhRcL6EWKwD_l9q9Km4UOshQ%3D%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Dark Ambient",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900856/ei/l4iSZsyAPNOYsfIPt_mQiA8/ip/13.91.68.208/id/S_MOd40zlYU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-n4v7snlr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAYaUQifn1nv490FA8_ewGSPjZUvH2u4Gq6ZxCwCW4PIYN4RTyZtPCKA3THQ/vprv/1/playlist_type/DVR/mh/Sh/mm/44/mn/sn-n4v7snlr/ms/lva/mv/u/mvi/1/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhALLdsFykBvJgjhoSx-wfqqaaOMSxN4edg75O_pazoUNUAiEAj5VG3aL9JHWc-sATMm6WjlufHEf0G7mbyaMNrRgl5_A%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhALqPcyypfTLBSVKCCwB4fdOzy3oQEpCkDBbq3T9Ks309AiEArFjjjA82IcLxGVu6HLXg4pMaE8vxHsyjQxWu-bnWGsc%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Hip Hop",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900856/ei/mIiSZoeEL7KIsfIPnvW1uAc/ip/13.91.68.208/id/rUxyKA_-grg.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-n4v7snse.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAVYzJVtfpdNz2bZYjnrMwT-aclcFF5-OSMc4LllTQSHHlaqg9IIedFYAjM0/vprv/1/playlist_type/DVR/mh/WZ/mm/44/mn/sn-n4v7snse/ms/lva/mv/u/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMR4neSaLPmw5UHOkeVEpqBwqhqEd_dueYv0f6cVDjYpAiBCw6dEzfVZElarTHII4XxbGH8geqLZVERSrxrqtxTxtw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgQF1UqJkfaIZc-2oniA4NMnc9_5jR_6uxOTimYwotWKQCIQC1GgrvAItlulHfvB0hibEPu80n72bLvCigYZcHC_H9Pg%3D%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Hip Hop 2",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900857/ei/mYiSZtytHPTlsfIPgO2GKA/ip/13.91.68.208/id/jfKfPfyJRdk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-n4v7sney.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAcaOqCKvm9psJnysHFNXWgjeUeBqccE18l_qh-LqyUQEJfYPAteZNWh-rms/vprv/1/playlist_type/DVR/hcs/ir/mh/rr/mm/44/mn/sn-n4v7sney/ms/lva/mv/u/mvi/1/pl/18/rmhost/rr2---sn-n4v7sney.googlevideo.com/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJqkWsC51lKya_epWCZpH3y8_-vUQMj8jWIEywXk0NdIAiBTJ6UzUiyYoKDP9Vdppz02P15LF3AV9opG7tMO9aV0dw%3D%3D/lsparams/hls_chunk_host,hcs,mh,mm,mn,ms,mv,mvi,pl,rmhost/lsig/AHlkHjAwRgIhAK674jCf94RR_Hb1vKzzk7yKBrrSNhNT8yQENJ2iBh7KAiEAu9vqWlG6k4XEC1XkvBGd3nrTrAw6hyggNVnN6uG6C_c%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Calm piano",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900858/ei/moiSZrGfD7a0sfIP3P-EIA/ip/13.91.68.208/id/zPNsuVaqeR8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-o097znsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAXmKxLqKTeYoRwoPaiwzd1AtCLbsQ3MMZs3NA5n314eJGqK0wzF-9KTLKAk/vprv/1/playlist_type/DVR/mh/9W/mm/44/mn/sn-o097znsr/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgSFBQiU6rnz2T5Y3olxG15k2AitytD_8NM_xtWQNJZpoCICsC-QLP4sIX6C9_zsFXuZUKMwocDhPUJufLI_95kcp4/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAIGRL1B5hAvQFih8pO01ASTcDqHSSMaiPCixxbsYI78IAiBkrYRaTBwVLTbsc8XPq6ISKNpKoQhV6AvmdbYkz4pCZQ%3D%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Focus",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900859/ei/m4iSZtSwIMSKsfIPjfWZ0AE/ip/13.91.68.208/id/PrV-JtKiwv4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-n4v7snl7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bATZn5RosR7esjMAyscqn2ZNlrVIQuRKMSKfGFhkjKNxHAqpl_mFdphAT4rM/vprv/1/playlist_type/DVR/mh/WY/mm/44/mn/sn-n4v7snl7/ms/lva/mv/u/mvi/2/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgY2Z2IHfsnK9WK7tHEyUfV6Tf8U6cOxnKCCGjiqLHWOQCIQD_GpIkVw5-iqaFDQXO69AWviuaWif1zuTAAVDvKT-DzA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgaTyKmvl5vqYxuGmVbmUy2N5rPKQ6DIrJU0ectMOvePQCICHM89WR-kukLLWh0Ho0lS8dSTs1CPXorDCz5o-Ml-Zd/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Vibe",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900860/ei/nIiSZtyhFauzsfIP5fKJsAw/ip/13.91.68.208/id/WJktfqMP7yY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-o097znsl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAVua80PIJwVdNvTE6Cs-47pBdMr6lVazNvP2eVUCVa_j7KQ-0gtpvTVnGm0/vprv/1/playlist_type/DVR/mh/sW/mm/44/mn/sn-o097znsl/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOQLr-GOoceqvWUHbxApgbT2DZb9M4uecZ4Nr_D0rfOkAiBRzE12J8-WVye5K2trmuevyVgxMj5-l4fiUxBgavSh0w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAPH8PzeTk99A9XqDsIAFk0VQRRc1ErmT7yH0wZOG_C7HAiEAlccB_M5_Q5WTrHP7jL297v89qXZktuZnETjJwHy8kPk%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Soul",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900861/ei/nYiSZqGQArKusfIP8qKRyAw/ip/13.91.68.208/id/Vgcp2ZGkyvo.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-o097znse.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAag5FPRUnaWRGCCRw4ukBCw7rABKC2L6NFy8xaFNpzbjdQkYmnt0v0qx6UQ/vprv/1/playlist_type/DVR/mh/uI/mm/44/mn/sn-o097znse/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhANvgJFdUy3X_ShWiSxi1OjoD44uPycfgDQwcDZu7aULBAiAzoi1JP3n3m-G4erbSpl38VD7p1fgyOrj_xAkqCQJ3uA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgBCqFN0OsNFssoYIMMHY--EJFuAl2P_QAsXKhA5O4K5UCIB8ogQaG6gYr_5EWX2R2sFLznRQ3wa33ZOJh74dtxNG2/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Roots Reggae",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900861/ei/nYiSZrjsMLWAsfIPzIOiiA8/ip/13.91.68.208/id/UKPK4D4D4zw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-n4v7snse.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bARXWSmkUrFx5_RJQqGUvECCH4PIleIXXzxjr9wt4mayrYrCdvjrGSl064cI/vprv/1/playlist_type/DVR/mh/Oz/mm/44/mn/sn-n4v7snse/ms/lva/mv/u/mvi/2/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMPIF95fxPcJOGS7_cYAfVsrKOW4Hyqu-bCRXcdunmjSAiAY3kzoXUfucgp5XnmsXCpViVD2QhpiY2haVBsn5fwsJg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhALbBbzAZpU4CRDQQyxzeoLxpouMcFjaij5UEkmtWUlw2AiEA5sBhtYL5t79kCMxD29hapvCNgl_dFR0CC6Jzoa-CyP4%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "Lofi Dub Reggae",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900862/ei/noiSZtSEHeP6sfIP0p--uAY/ip/13.91.68.208/id/jBLapoJrkf8.5/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-o097znzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bARzcIHyVS9-WB8Vjs1yB9NM7mW_RRVwZt5lsncmYnVNFyBbmOjNlkEoPtj4/vprv/1/playlist_type/DVR/mh/dW/mm/44/mn/sn-o097znzr/ms/lva/mv/u/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPgirg4i027ineUa8uTWdjVneVS31gVyWgoguJzyAYvMAiAtLL5g3Tk3oPFPZfvQLDEvC2CAyiBhOyoHlsFFtFLV9w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAMtvSs3b5ydWQcwRGVT6gf50Vwwc2hY1YAbjcVq-CZdHAiAEPN_5L51rPG-m5hOwf5Zi6vptI98V2znIdZTrckFlHA%3D%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  },
+  {
+    "id": "",
+    "name": "SleepyCat - Cat's favorite music Golgolsong \ud83d\ude3d",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900863/ei/n4iSZu_sDfD7sfIPwbaEwAs/ip/13.91.68.208/id/DSqqIbsDmQY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-o097znze.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bATXFHIZ2iKqHvJ9L2JHtSpARvVmpOw8yd9wQaUmjOl6shxfYlt9MDguyYnI/vprv/1/playlist_type/DVR/mh/-2/mm/44/mn/sn-o097znze/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgeW1HuzAo3kPy189nbM03ScjEdEyK2rzGg1Nz3MI5OxgCIEEl3VA7BN98OB_y7roVl3QpkE6QC7ghOG5ZD04FpcN4/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAOT2k5LZd6HeR-s5t1CuoMviVGQ3sRdW07ZQEY3djmyVAiAwmpz9gzWoFh9Q90_tzgIl92G9MAq22FuWOyWrl0VA9A%3D%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/dF45ojj.jpg"
+  },
+  {
+    "id": "",
+    "name": "SleepyCat - Soothing cat music \ud83d\ude3d Valley water sounds, birds sounds \ud83c\udf31",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900864/ei/n4iSZqegPOyHsfIPjcyioAY/ip/13.91.68.208/id/Mh1_FBQ-KGo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-o097znsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAfmPZgcYDLow94lt4anvnciW0hu-eaMQXNTRHDEk-iobmuA_HpQJiBB22LA/vprv/1/playlist_type/DVR/mh/w_/mm/44/mn/sn-o097znsk/ms/lva/mv/u/mvi/1/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKBP2wbgblyEzBska7Kcq0kiPVr3BvEHUIkG7v72gr9DAiA2tFbMgLfDx2FhAtlRAoduMDpO9AwCY7na7Dq1-SskmA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAMewGGTCXp4qs6offBRAEuiRvGuYb6BYICv9BrteyryBAiEAiRmvITf7CmioOsd3urxA63twnLFx7Paa0GKa35B5mfo%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/dF45ojj.jpg"
+  },
+  {
+    "id": "",
+    "name": "SleepyCat - Cat Lullaby Separation Anxiety Relief Music for Cats",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900864/ei/oIiSZuS8Mu-JsfIP3oKqKA/ip/13.91.68.208/id/q_8PceBq7yw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-o097znzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAcVa6F78EP10nmzQEjbFoDMFj-pGFfufr6u2jIXI0EeD5dbA7BzrzAB8XeQ/vprv/1/playlist_type/DVR/mh/FG/mm/44/mn/sn-o097znzk/ms/lva/mv/u/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIaXNH5A16q6Fraf4kiJXJvIbpKb-lQI85pXgwkAw66zAiEAgVtHm90f6fx7BS5DUNU9apJelFjL1KPtIQHCk1nUlxU%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgC_KR_rJFac3QszD-7M_oW-qQCLg0XYGOJq5i0lnUZokCIGeJqNHwfMI7uYxyymTdj7AythvF2V5iDJCL5w5pY98O/playlist/index.m3u8",
+    "logo": "https://iili.io/dF45ojj.jpg"
+  },
+  {
+    "id": "",
+    "name": "SleepyCat - Sweet harp music that cats love \ud83d\ude3d",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900865/ei/oYiSZunOI5vYsfIP97-WiA8/ip/13.91.68.208/id/PWEcgt_8rHY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-o097znsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAaGjB0pj1P86aKdgX_HAg1vdWi6gjyvcpSss1zYswhCfumqB35tbToaccbM/vprv/1/playlist_type/DVR/mh/D_/mm/44/mn/sn-o097znsr/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgAlU9txT-IuusDGd3RxYdlF791Zw4KKqB6jgyJJQf85gCIAI4PGINqm0OpUzV-KovlGfVsPabW1_PxZ2thtStQk14/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgYRc1Ln0YxaddmK33haPWg_USyIdW98QThlyrURmGSIkCIQDiU5d7nRnHE1UAP5W8cFty31o9hIshH06dhzCkZZiCpA%3D%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/dF45ojj.jpg"
+  },
+  {
+    "id": "",
+    "name": "SleepyCat - Therapy Music for Stressed Cats \ud83d\udc31",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900866/ei/ooiSZrX4FIuxsfIP6vyiMA/ip/13.91.68.208/id/qxQElyBEPlI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-n4v7snl7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAfbCt8xEfD1XzJ8L2PEZHFMzTbUt2PsNEafjubfoN4vhYp_ijD37DLm12fg/vprv/1/playlist_type/DVR/mh/Ot/mm/44/mn/sn-n4v7snl7/ms/lva/mv/u/mvi/2/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAOrzSIkDmdgOmx1advb4Sj_Ad5L14ZPS2_mf6EaiaqAwAiEA2boOEE-RAZy1fn69meiwhy3ukW5h6cWe6k-jNzRGQtc%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhANa34Zs0BLpH40rRSNGtbK7ftN9vTqruP47gDl1zXfP7AiAZTShJKiYNaS4FYjiEC8QBEjnPBwN_5TN8fcq_IQFBIw%3D%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/dF45ojj.jpg"
+  },
+  {
+    "id": "",
+    "name": "SleepyCat - Therapy Music for Stressed Cats \ud83d\udc31",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900867/ei/o4iSZrGWBdHasfIP0t29sAM/ip/13.91.68.208/id/A2bpe5EmOCg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-n4v7snls.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAWAMDNmbsnDAzlc-RqauXOHCy-jQhvbmruB_N030lwNL98cOibxwZBffbqk/vprv/1/playlist_type/DVR/mh/rq/mm/44/mn/sn-n4v7snls/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhALn3mlMHA-_OmG4cOjx-KXBGVMtW-iF0YcUKQQCY7M_jAiEArqBnMnYoc9_f7hRDp7JhlXC2N7UngL4y5s2e9L7d2IA%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAIJEFm3bLhzu3cSHTsLhH6vSXr7NyYBQGJe4WqOce-uHAiB-jSljV4Nw2XbSk4RBTUgVqzSkwQI611qCMNMMusz0BQ%3D%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/dF45ojj.jpg"
+  },
+  {
+    "id": "",
+    "name": "SleepyCat - EXTREMELY Soothing Cat Therapy Music",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900867/ei/o4iSZs3pNceJsfIPzd2VmAE/ip/13.91.68.208/id/LK0Nx3u69GI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-n4v7snlr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAYJq2SOtMP0lB5NqH4weIxIS92ZKhroxIA9PILgUA5tDgDTnyzfLhtRiAus/vprv/1/playlist_type/DVR/mh/HH/mm/44/mn/sn-n4v7snlr/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAN1D89cUHn8lobWtWlRFUSXE96Tbz8UdIBvQvH4eDl9WAiEAsg6hzo5iuRxpGHONK5tILjV_iaHoynh4HW9Q5JOFr3o%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAOftpsj37SrUGwaIWkeC5s1ETzxKDBtC1SKlYmohDPl2AiEArADXbCHUGg34sB1pdwVtsD4pZIDcPdUMHBmm978qOaY%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/dF45ojj.jpg"
+  },
+  {
+    "id": "",
+    "name": "Aqua - In The Aquarium You Can See Huge Sea Creatures 4K ULTRA HD",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900869/ei/pYiSZpK3DYjXsfIPova30AM/ip/13.91.68.208/id/BRXBlGm43ew.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-n4v7snly.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAWSyedVJxWHoHW8Bul0Ykm8uNtWln-ASvfG7LFNIKwPn1jZByx8wp9WVqDg/vprv/1/playlist_type/DVR/mh/6t/mm/44/mn/sn-n4v7snly/ms/lva/mv/u/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhALZibk7xP1B_fKafnUyFhCDntWNmWwVU2KDTUEeoQswYAiEAovhtygrmNHDRCe8HVbp0JGj-Iwa1jzF9syUg9gW87bs%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgDFlivZxjYk12JS6LxKrZsNHa_UjLO8_qYTeiFnB4PXoCIEGL7QGDu38YuXH5M-8O2O0mYObf8Evr21ot_y98hmKT/playlist/index.m3u8",
+    "logo": "https://iili.io/dF4E14f.webp"
+  },
+  {
+    "id": "",
+    "name": "Didi & Friends - Lagu Kanak Kanak",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Kartun"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720900870/ei/poiSZor4KICusfIP0KmEkAI/ip/13.91.68.208/id/Tx7QX9gRgxE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-n4v7snse.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/NO7bAc3QpBLtXxDDAlzMJdXcl4ydZOfNsCLtUZ18fnntRlDllUc64w8ldCuixGU/vprv/1/playlist_type/LIVE/mh/ah/mm/44/mn/sn-n4v7snse/ms/lva/mv/u/mvi/2/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720878929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,spc,vprv,playlist_type/sig/AJfQdSswRQIhAICVQcnjg7lbUYZ05rfwfG1Y96JvPNYQQXeXEbmma5YVAiAwlCDODt965Z03Nj1ecGPytbPlZJn8RNG9FZoIMaF-Gw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhALzWqOr4QDlpu_MCzmoHSttq6di8RJV7IoYz9Hch9HtaAiEA4ugrKk4QkIMp1qD602AsViLL9YAynYPBk0Hg0NRFicQ%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JDqJACB.jpg"
+  }
+]
