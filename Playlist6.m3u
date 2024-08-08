@@ -1,0 +1,1024 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/1df49b7efe91ad976562ec7ca051edc541215909/PlutoTV/us.xml" refresh="1440" max-conn="5" refresh="24"
+=================================
+=================================
+CHANNELS WAJIB RENEW TOKEN SETIAP HARI
+
+#EXTINF:-1 tvg-id="104.astro" ch-number="104" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Ria HD CH104
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+http://linears-playback.astro.com.my/vsg/41PqELpG-4ccorLNty8VaNe9xDTwPSxpuJTsPuTNZGd4k=4NQK/dash-wv/jitp-linearwm/1004/default_primary.mpd
+
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Prima HD CH105
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linears-playback.astro.com.my/vsg/41k-__83iWWMwO0StrFPj2-gYPMkdIL0b16E6O7W6G81c=cSC3/dash-wv/jitp-linearwm/1000/default_primary.mpd
+
+#EXTINF:-1 tvg-id="107.astro" ch-number="107" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Warna HD CH107
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+http://linears-playback.astro.com.my/vsg/41t4pTPyLKHqgAVyC45rMblwJftY8rYhI4QwA5cVyeWto=KlqI/dash-wv/jitp-linearwm/2402/default_primary.mpd
+
+#EXTINF:-1 tvg-id="108.astro" ch-number="108" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Citra HD CH108
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+http://linears-playback.astro.com.my/vsg/41_EYXHP1veE2ufwmhW3BL7jPHJqvpGWDSLEs8OhB984I=9aVx/dash-wv/jitp-linearwm/2700/default_primary.mpd
+
+#EXTINF:-1 tvg-id="202.astro" ch-number="202" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Vinmeen2024.png",Vinmeen HD CH202
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
+http://linears-playback.astro.com.my/vsg/412dzUhVkDX7_u61_9m6mJaiBVPL2ElEbsGUXmRAxugrE=O_YX/dash-wv/jitp-dashisowm/2105/default_primary.mpd
+
+#EXTINF:-1 tvg-id="241.astro" ch-number="241" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png",Thangathirai HD CH241 (A)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+http://linears-playback.astro.com.my/vsg/41nOsj_OWAK6ySDn2wLrmpVDJgmeiGfngCJmb2z0kZ0HM=tcuR/dash-wv/jitp-linearwm/2109/default_primary.mpd
+
+#EXTINF:-1 tvg-id="241.astro" ch-number="241" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png",Thangathirai HD CH241 (B)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cjf/CLNuE66j019PJXL6OQ","kid":"tyLZVr/GpFCM2R3micm4EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
+
+#EXTINF:-1 tvg-id="311.astro" ch-number="311" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png",AOD HD CH311 (A)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linears-playback.astro.com.my/vsg/41E_Gltp-i4TZEY3PSazT3LX0E9h0nat8u2p7E4DX-pnc=0MM2/dash-wv/jitp-linearwm/2706/default_primary.mpd
+
+#EXTINF:-1 tvg-id="311.astro" ch-number="311" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png",AOD HD CH311 (B)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xPNRHhKT5X4xz0IoNVUaag", "kid":"bvJHEbeaTBOk/m1Ndg2EPA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://linear07-playback.sooka.my/CH5/masterCH5.mpd
+=================================
+=================================
+#EXTINF:-1 tvg-id="101.astro" ch-number="101" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 HD CH101
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+
+#EXTINF:-1 tvg-id="102.astro" ch-number="102" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 HD CH102
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
+#EXTINF:-1 tvg-id="103.astro" ch-number="103" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 HD CH103 (Tonton)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
+#EXTINF:-1 tvg-id="103.astro" ch-number="103" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 HD CH103 (UnifiTV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nF8Rij5z4RNsQsFIViqZJg", "kid":"QGA5hyG/uXBnvjs5wLu9bA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://web.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6I0o%2FoIw83oXLZFVYSQnBBI%2FiKpnGDOVh7xgstdkkeZwTJycHE0IqZBvG%2BXsudj34k%3A20240728232643%3AUTC%2C10001002674171%2C1.1.1.1%2C20240728232643%2Curn:Huawei:liveTV:iptv182%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
+
+#EXTINF:-1 tvg-id="106.astro" ch-number="106" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",Oasis HD CH106
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+#EXTINF:-1 tvg-id="110.astro" ch-number="110" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Premier_2024.png",Astro Premier CH110
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
+
+#EXTINF:-1 tvg-id="112.astro" ch-number="112" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png",Rania HD CH112
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+
+#EXTINF:-1 tvg-id="113.astro" ch-number="113" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png",Aura HD CH113
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+
+#EXTINF:-1 tvg-id="114.astro" ch-number="114" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah CH114
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#EXTINF:-1 tvg-id="116.astro" ch-number="116" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png",Colors HD CH116
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+
+#EXTINF:-1 tvg-id="122.astro" ch-number="122" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png",TVS CH122
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+
+#EXTINF:-1 tvg-id="123.astro" ch-number="123" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AwesomeTV.png",Awesome TV CH123 (A)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
+
+#EXTINF:-1 tvg-id="123.astro" ch-number="123" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AwesomeTV.png",Awesome TV CH123 (B)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.mpd
+
+#EXTINF:-1 tvg-id="131.astro" ch-number="131" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/630b643fb6cf4ceca08c9d9a97c2af89/version/1/width/500/height/280",Filem Mantap CH131
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+#####https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=d76ec2bd-baa6-47fb-b711-5f5a819aa18f
+
+#EXTINF:-1 tvg-id="132.astro" ch-number="132" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0b7ee488e85f40389398c3a9f60a2327/version/1/width/500/height/280",Drama Hebat CH132
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+#####https://linearfast01.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=ece1d67f-ff36-4d41-bf7d-a0586c414147
+
+#EXTINF:-1 tvg-id="133.astro" ch-number="133" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0840a1e4e5474ab2bd8ed2e78b62a3cc/version/1/width/500/height/280",Drama Hotpot CH133
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+#####https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=c5cbf2ba-afa8-4469-9fa9-79f0bb9297b2
+
+#EXTINF:-1 tvg-id="134.astro" ch-number="134" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bf0217c390d64933a8322599c7fc8cdb/version/1/width/500/height/280",Lawak Sentral CH134
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+#####https://linearfast03.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=fef9dc77-b445-46a8-a5cb-627e0afc8646
+
+#EXTINF:-1 tvg-id="135.astro" ch-number="135" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af0713d19b08477fb34c4bca7806f15b/version/1/width/500/height/280",Travel & Taste CH135
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+#####https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd?aws.sessionId=ba40e605-0ef3-41c7-9059-7de61a308963
+
+#EXTINF:-1 tvg-id="146.astro" ch-number="146" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Okey_v1.png",TV Okey CH146
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+
+#EXTINF:-1 tvg-id="147.astro" ch-number="147" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NTV7_v1.png",NTV7 CH147 (A)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k": "mqE/7sFxFXE5s0HJWhYe5w", "kid":"+gJI2Kzewn+vHOwsxej++w" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
+
+#EXTINF:-1 tvg-id="147.astro" ch-number="147" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NTV7_v1.png",NTV7 CH147 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live06.mpd
+
+#EXTINF:-1 tvg-id="148.astro" ch-number="148" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV CH148 (A)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OFJ0MB7UkQtNtWuzc6Hs7w", "kid":"kgAw70UVLc2419VhyKzCJA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
+#EXTINF:-1 tvg-id="148.astro" ch-number="148" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV CH148 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live08.mpd
+
+#EXTINF:-1 tvg-id="149.astro" ch-number="149" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png",TV9 CH149 (A)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tJxHTshQ9QCGd/bOlAfKZQ", "kid":"/QJnVAdYDSY/y3zXjEOOUg" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6IheC2JMnGsfkJbxrVuikfhpz3fyUMhw7Iukv7S74gmAvJycHE0IqZBvG%2BXsudj34k%3A20240728232649%3AUTC%2C10001002674171%2C161.142.214.99%2C20240728232649%2Curn:Huawei:liveTV:iptv185%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
+
+#EXTINF:-1 tvg-id="149.astro" ch-number="149" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png",TV9 CH149 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1 tvg-id="201.astro" ch-number="201" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png",Vaanavil HD CH201
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+
+#EXTINF:-1 tvg-id="203.astro" ch-number="203" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vellithirai_v1.png",Vellithirai HD CH203
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
+
+#EXTINF:-1 tvg-id="222.astro" ch-number="222" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png",Colors Tamil CH222
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+
+#EXTINF:-1 tvg-id="223.astro" ch-number="223" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png",Zee Tamil HD CH223
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Znoz9NW7NYfy1SCYhoOerA", "kid":"DU4+fawtWLk7+BmnL+jVEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
+
+#EXTINF:-1 tvg-id="251.astro" ch-number="251" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema CH251
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+
+#EXTINF:-1 tvg-id="300.astro" ch-number="300" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png",iQIYI HD CH300
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+
+#EXTINF:-1 tvg-id="306.astro" ch-number="306" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC HD CH306
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"51Fl04uQlWfAM1OuSye2+A", "kid":"AesRaCCJQPiycLTgmUVw5w" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEazBNVEJsTVRndFltUXhNeTAwTURVNUxUaGxNREV0WVdZd05UVTJabVEyT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzQ0NDIwNiwiaWF0IjoxNzIyODQwMjA2fQ.pE0WQtUlGVJLUCGfYoWMQ2B5L8DuRzQg3r5bRFvxmqs"}
+https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="308.astro" ch-number="308" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",QJ HD CH308
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AiI5ZeM/e/HmwhJ4Bju1CA", "kid":"sOfb4l5sSfm1JeYU/EqmDA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEazBNVEJsTVRndFltUXhNeTAwTURVNUxUaGxNREV0WVdZd05UVTJabVEyT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzQ0NDIwNiwiaWF0IjoxNzIyODQwMjA2fQ.pE0WQtUlGVJLUCGfYoWMQ2B5L8DuRzQg3r5bRFvxmqs"}
+https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-id="309.astro" ch-number="309" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png",Celestial HD CH309
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
+
+#EXTINF:-1 tvg-id="392.astro" ch-number="392" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBSW HD CH392
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
+
+#EXTINF:-1 tvg-id="393.astro" ch-number="393" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png",One HD CH393
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+
+#EXTINF:-1 tvg-id="395.astro" ch-number="395" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png",tvN HD CH395
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+
+#EXTINF:-1 tvg-id="396.astro" ch-number="396" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",KPlus CH396
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+
+#EXTINF:-1 tvg-id="398.astro" ch-number="398" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NHK_World_v1.png",NHK HD CH398
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RLQjp33TSs4WLbNcuw+2ow", "kid":"mIF7FEvPGf0N3Kf+VM7hEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
+
+#EXTINF:-1 tvg-id="401.astro" ch-number="401" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png",HITS Movies HD CH401
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+
+#EXTINF:-1 tvg-id="404.astro" ch-number="404" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO CH404
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+
+#EXTINF:-1 tvg-id="411.astro" ch-number="411" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO HD CH411
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+
+#EXTINF:-1 tvg-id="412.astro" ch-number="412" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax HD CH412
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+
+#EXTINF:-1 tvg-id="413.astro" ch-number="413" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Showcase.png",Showcase CH413
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+
+#EXTINF:-1 tvg-id="414.astro" ch-number="414" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family CH414
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+
+#EXTINF:-1 tvg-id="415.astro" ch-number="415" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",HBO Hits CH415
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+
+#EXTINF:-1 tvg-id="416.astro" ch-number="416" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies CH416
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+
+#EXTINF:-1 tvg-id="501.astro" ch-number="501" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",Awani HD CH501
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+
+#EXTINF:-1 tvg-id="502.astro" ch-number="502" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png",Bernama CH502 (A)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://youtube.worst.workers.dev/0F53Ps27Nfc/index.m3u8
+
+#EXTINF:-1 tvg-id="502.astro" ch-number="502" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png",Bernama CH502 (B)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z+rzu8T9WJ0UGTujFDGiXA", "kid":"TqpJVFQAa9fk4ycR5VfGoA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://web.hypp.tv/PLTV/88888888/224/3221227511/3221227511.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6IVfe3HsYZzbdSVNpAe6o0lin66biba%2FfYgDuDLp9mYZXJycHE0IqZBvG%2BXsudj34k%3A20240728232844%3AUTC%2C10001002674171%2C1.1.1.1%2C20240728232844%2Curn:Huawei:liveTV:iptv259%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
+
+#EXTINF:-1 tvg-id="503.astro" ch-number="503" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CGTN_v1.png",CGTN HD CH503
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nnBhYfAvuZy2ktKWVHBJTg", "kid":"/GbvDuNbW6Y53A4TxfipEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
+
+#EXTINF:-1 tvg-id="511.astro" ch-number="511" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNN_v1.png",CNN HD CH511
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v34bl1VcSst0VfcRsqn/Fg", "kid":"G2GKKRzs5EyYRd3fxP2bEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
+
+#EXTINF:-1 tvg-id="512.astro" ch-number="512" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png",BBC News HD CH512
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d+wO6yHAeBL9fFhig2bMsw", "kid":"AXZ9HCMVwOlVb0d/sfDHEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
+
+#EXTINF:-1 tvg-id="513.astro" ch-number="513" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png",Al Jazeera HD CH513
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
+
+#EXTINF:-1 tvg-id="514.astro" ch-number="514" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png",Sky News HD CH514
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sNrddLcT5LKf0n4UfK5xMw", "kid":"S+9/wby2vX8ofe+UDjjLEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
+
+#EXTINF:-1 tvg-id="515.astro" ch-number="515" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png",CNA HD CH515
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
+
+#EXTINF:-1 tvg-id="516.astro" ch-number="516" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNBC_v1.png",CNBC HD CH516
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YCgnqHDUmGLRoj8pEpV7TA", "kid":"w6OPE0BTF1mhype8XYDIEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd
+
+#EXTINF:-1 tvg-id="517.astro" ch-number="517" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BloombergTV_2022.png",Bloomberg TV HD CH517
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eaBEsw1k9cN+bUXVA8uygA", "kid":"2xNDVFriXd7PjfpEIvNUEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
+
+#EXTINF:-1 tvg-id="518.astro" ch-number="518" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ABC_v1.png",ABC Australia CH518
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mb18H/I5EkS05A4IvvEQnQ", "kid":"ap/ML5QljO4PIQhofELnEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
+
+#EXTINF:-1 tvg-id="521.astro" ch-number="521" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DW_v1.png",DW HD CH521
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E7uCnOSDbM90BxxFmTl4xQ", "kid":"ft871ZDPM39yGi5b7DYVEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_primary.mpd
+
+#EXTINF:-1 tvg-id="522.astro" ch-number="522" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/France24_v1.png",France24 HD CH522
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dtQJ/8TqoBLGHYwxvRPfXQ", "kid":"Owwc69DEUY1gD1LDVO0ZEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_primary.mpd
+
+#EXTINF:-1 tvg-id="549.astro" ch-number="549" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature 4K CH549
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
+
+#EXTINF:-1 tvg-id="550.astro" ch-number="550" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png",Love Nature CH550
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
+
+#EXTINF:-1 tvg-id="551.astro" ch-number="551" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png",Global Trekker CH551
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
+
+#EXTINF:-1 tvg-id="552.astro" ch-number="552" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",Discovery HD CH552
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
+
+#EXTINF:-1 tvg-id="553.astro" ch-number="553" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png",Discovery Asia CH553
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
+
+#EXTINF:-1 tvg-id="554.astro" ch-number="554" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png",BBC Earth CH554
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
+
+#EXTINF:-1 tvg-id="555.astro" ch-number="555" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_2022_v1.png",History HD CH555
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
+
+#EXTINF:-1 tvg-id="556.astro" ch-number="556" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet HD CH556
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TU1NncQb5D9SiklAz2bxTA", "kid":"1RmfFROgKG4Dja6PfYIAEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+
+#EXTINF:-1 tvg-id="603.astro" ch-number="603" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TutorTV.png",Tutor TV CH603
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
+
+#EXTINF:-1 tvg-id="611.astro" ch-number="611" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Ceria HD CH611
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+
+#EXTINF:-1 tvg-id="612.astro" ch-number="612" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png",Dreamworks CH612
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
+
+#EXTINF:-1 tvg-id="615.astro" ch-number="615" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",Cartoon Network HD CH615
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
+
+#EXTINF:-1 tvg-id="616.astro" ch-number="616" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nickelodeon_2024.png",Nickelodeon HD CH616
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
+
+#EXTINF:-1 tvg-id="617.astro" ch-number="617" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png",Nick Jr CH617
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+
+#EXTINF:-1 tvg-id="618.astro" ch-number="618" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png",Moonbug Kids CH618
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
+
+#EXTINF:-1 tvg-id="620.astro" ch-number="620" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png",CBeebies CH620
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
+
+#EXTINF:-1 tvg-id="701.astro" ch-number="701" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",AXN HD CH701
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+
+#EXTINF:-1 tvg-id="702.astro" ch-number="702" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png",HITS Now CH702
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
+
+#EXTINF:-1 tvg-id="703.astro" ch-number="703" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png",Lifetime CH703
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
+
+#EXTINF:-1 tvg-id="706.astro" ch-number="706" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png",HITS HD CH706
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+
+#EXTINF:-1 tvg-id="707.astro" ch-number="707" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png",TLC HD CH707
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
+
+#EXTINF:-1 tvg-id="708.astro" ch-number="708" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png",Food Network HD CH708
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
+
+#EXTINF:-1 tvg-id="709.astro" ch-number="709" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png",AFN HD CH709
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
+
+#EXTINF:-1 tvg-id="712.astro" ch-number="712" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV CH712
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
+
+#EXTINF:-1 tvg-id="714.astro" ch-number="714" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png",Crime&Investigation HD CH714
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
+
+#EXTINF:-1 tvg-id="715.astro" ch-number="715" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",HGTV HD CH715
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
+
+#EXTINF:-1 tvg-id="716.astro" ch-number="716" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png",DMAX HD CH716
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
+
+#EXTINF:-1 tvg-id="717.astro" ch-number="717" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png",BBC Lifestyle CH717
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sS4fiUEpxRfciEW6ruvsig", "kid":"9CkpLcdE8oQ1UwhWFXesEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+
+#EXTINF:-1 tvg-id="718.astro" ch-number="718" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_Live.png",MTV HD CH718
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IvlkptaSfM26SC53XN/xkA", "kid":"OsJUKk9750ZjPbB2R0UXEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+
+#EXTINF:-1 tvg-id="801.astro" ch-number="801" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",Arena HD CH801
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+#EXTINF:-1 tvg-id="802.astro" ch-number="802" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Arena 2 HD CH802
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#EXTINF:-1 tvg-id="803.astro" ch-number="803" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",Arena Bola CH803
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" }], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEazBNVEJsTVRndFltUXhNeTAwTURVNUxUaGxNREV0WVdZd05UVTJabVEyT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzQ0NDIwNiwiaWF0IjoxNzIyODQwMjA2fQ.pE0WQtUlGVJLUCGfYoWMQ2B5L8DuRzQg3r5bRFvxmqs"}
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="804.astro" ch-number="804" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",Arena Bola 2 CH804
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" }], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEazBNVEJsTVRndFltUXhNeTAwTURVNUxUaGxNREV0WVdZd05UVTJabVEyT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzQ0NDIwNiwiaWF0IjoxNzIyODQwMjA2fQ.pE0WQtUlGVJLUCGfYoWMQ2B5L8DuRzQg3r5bRFvxmqs"}
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
+#EXTINF:-1 tvg-id="805.astro" ch-number="805" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport_UHD.png",Astro Super Sport UHD CH805
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+
+#EXTINF:-1 tvg-id="810.astro" ch-number="810" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2 CH810
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7W1n2VPRSwJrJgLPiEZXfg", "kid":"Xv0m2lABNjtNb6SpyBKtEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
+
+#EXTINF:-1 tvg-id="811.astro" ch-number="811" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",ASSP HD CH811
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" }], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEazBNVEJsTVRndFltUXhNeTAwTURVNUxUaGxNREV0WVdZd05UVTJabVEyT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzQ0NDIwNiwiaWF0IjoxNzIyODQwMjA2fQ.pE0WQtUlGVJLUCGfYoWMQ2B5L8DuRzQg3r5bRFvxmqs"}
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="812.astro" ch-number="812" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",ASSP2 HD CH812
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEazBNVEJsTVRndFltUXhNeTAwTURVNUxUaGxNREV0WVdZd05UVTJabVEyT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzQ0NDIwNiwiaWF0IjoxNzIyODQwMjA2fQ.pE0WQtUlGVJLUCGfYoWMQ2B5L8DuRzQg3r5bRFvxmqs"}
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-id="813.astro" ch-number="813" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",ASSP3 HD CH813
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEazBNVEJsTVRndFltUXhNeTAwTURVNUxUaGxNREV0WVdZd05UVTJabVEyT0RjMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzQ0NDIwNiwiaWF0IjoxNzIyODQwMjA2fQ.pE0WQtUlGVJLUCGfYoWMQ2B5L8DuRzQg3r5bRFvxmqs"}
+https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="814.astro" ch-number="814" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",ASSP4 HD CH814
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+
+#EXTINF:-1 tvg-id="815.astro" ch-number="815" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/W-Sport.png",W-Sport CH815
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nNXA0eVMIuA12I3Twd/ITA", "kid":"AQy7nPGgHq04Bwcw04vHEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
+
+#EXTINF:-1 tvg-id="816.astro" ch-number="816" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV CH816
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dYgj5Oq7bkyMA20HPbRrjA", "kid":"wOGASqHZ/ZxBxBvw9hpfEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+
+#EXTINF:-1 tvg-id="817.astro" ch-number="817" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",beIN SPORTS 2 CH817
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:-1 tvg-id="818.astro" ch-number="818" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",beIN SPORTS CH818
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 tvg-id="819.astro" ch-number="819" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",bEIN SPORTS 3 CH819
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1 tvg-id="820.astro" ch-number="820" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",Eurosport HD CH820
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+
+#EXTINF:-1 tvg-id="821.astro" ch-number="821" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE Network CH821
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
+
+#EXTINF:-1 tvg-id="822.astro" ch-number="822" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png",Golf Channel HD CH822
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KGObz7XL7o/5yjmPz1v80A", "kid":"cFurXmRbbXyVWIspUg+BEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
+
+#EXTINF:-1 tvg-id="823.astro" ch-number="823" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",Premier Sports CH823
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
+#EXTINF:-1 tvg-id="824.astro" ch-number="824" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Cricket_2024.png",Astro Cricket CH824
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+=================================
+=================================
+UNIFI CHANNELS
+
+#EXTINF:-1 tvg-id="472.unifi" ch-number="621" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(UNIFI)" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png",Animax HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDYwYTMyZTYtYWJmMC0zOGFmLThiZTEtMmQwYzU2MjlmZWYw
+https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
+
+#EXTINF:-1 tvg-id="473.unifi" ch-number="417" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(UNIFI)" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDYwYTMyZTYtYWJmMC0zOGFmLThiZTEtMmQwYzU2MjlmZWYw
+https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbLh6LO9cwFJbX0ifkqBLs1eEm6R1BFTj%2F%2B5BveDnXMJVLMXaMDHd%2BOB7wHYKNx8pLeV3eB1im9yO2zVHwdc0cAWVFRTQiCcWXuFIeO21qkbF%3A20230413072448%3AUTC%2C10001002129842%2C115.135.197.250%2C20230413072448%2Curn:Huawei:liveTV:iptv42337%2C10001002129842%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C884179594%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjCjgCfOCUqlKlyo0Ut9dqDQ9qBZsEnEj9-8ate93dWc1S4OjlyTrT6tYFTYPa740boGVAE5SAkF6bhlW6dtlK5pDSOMcu-xX7OB0-xY7vuJSCG9avb88JcRt2t2mgYsU_daJyHx1ZXwO_o3LEWChiGfPMjwnf7yVtE0b9ZiaUEY1WrVJKN2xZ0x71_GjYF-ohTxcU8q85_gI2IFViF7gzInWYyM63lP64t-IfNj_9atHa8wAAAA&tenantId=6003
+
+#EXTINF:-1 tvg-id="474.unifi" ch-number="417" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(UNIFI)" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png",Rock Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDYwYTMyZTYtYWJmMC0zOGFmLThiZTEtMmQwYzU2MjlmZWYw
+https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbKOcX%2BP3Grqi2KkTyat%2BkYBRTE8BQtzQEk9tepGqmM8PvqR%2FW6%2FmAu25c2abohrK7O83m3EeQ0m%2BBo4btd%2BuniyVFRTQiCcWXuFIeO21qkbF%3A20230405093857%3AUTC%2C10001002129788%2C180.75.253.113%2C20230405093857%2Curn:Huawei:liveTV:SP000002372888%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C3484991609%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQYvCMBhE_02OIYlS7SEnRViQKlj3KpPka7aYNppUwX9vu9brzLzhDQmWfrZaCWelcQpwYknKQTZUEkxRmma1WBiW6V5FrZhFCG3vq-gm7Pe0uUjBBVdK8hWrp7ddgJ-H1aMzlLT8UidKz9aSdrnhT2QO7xN5DG3s-THgdU5hnjCqZzNZrEVRKjFaiIINU1ojX8eG_SFvYndDIreP_h_QDUImdoO9wlOFjnT_COHDHZIbbd55AAsT8wAAAA&tenantId=6003
+
+#EXTINF:-1 tvg-id="120.unifi" ch-number="110" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(UNIFI)" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",Degup
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDYwYTMyZTYtYWJmMC0zOGFmLThiZTEtMmQwYzU2MjlmZWYw
+https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
+
+#EXTINF:-1 tvg-id="128.unifi" ch-number="110" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(UNIFI)" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://unifi-live27.secureswiftcontent.com/UnifiHD/live27.mpd
+#####https://ck-dash-mpd.aqfadtv.xyz/unifitv/duniasinema/
+
+#EXTINF:-1 tvg-id="141.unifi" ch-number="113" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(UNIFI)" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",Pesona HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDYwYTMyZTYtYWJmMC0zOGFmLThiZTEtMmQwYzU2MjlmZWYw
+https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFKTULlhpTExMNWl1az7wi420KFQTb6_Vup2ZN3ljBIPbtdJaSuQlz7HkwkqhmUWx1IVpM11iLkjCexUUJwa87wZXBTthp3p1ZhnNKOeMMk6a6W7jwc3L6tFrjGrxx2qMz86gsqmlT0gUnIvoYOzCQA8eXsfo5wnBZlZjUpZ8KaSQRZaTcUobSNdPQy6QVqG_QUS7C-4LqBZ8QnIDcwWHFfSohof3P24f7cfmDRFIhEH0AAAA&tenantId=6001
+
+#EXTINF:-1 tvg-id="121.unifi" ch-number="113" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(UNIFI)" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",SIAR
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDYwYTMyZTYtYWJmMC0zOGFmLThiZTEtMmQwYzU2MjlmZWYw
+https://web.hypp.tv:443/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
+#####https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd
+
+#EXTINF:-1 tvg-id="113.unifi" ch-number="113" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(UNIFI)" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDYwYTMyZTYtYWJmMC0zOGFmLThiZTEtMmQwYzU2MjlmZWYw
+https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
+#####KODIPROP:inputstream.adaptive.license_type=clearkey
+#####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
+#####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#####https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#EXTINF:-1 tvg-id="116.unifi" ch-number="113" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(UNIFI)" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDYwYTMyZTYtYWJmMC0zOGFmLThiZTEtMmQwYzU2MjlmZWYw
+https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%2FJeXHfDxeMmgeNS3yDDbwDhuZ937rmczNPJkKBabsOU74aXDMLj4K3IZwwXxFU989TgLfGc8kJqpFLcIfLVtlUrcymHBIhx5oJP4jv2fPK0%3D%3A20240803034538%3AUTC%2C1005926113%2C219.92.89.89%2C20240803034538%2Curn:Huawei:liveTV:SP000004015718%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C4050059134%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSAK1YF6w0Jiammljdmi98sCktCrWJt7fVup2ZN3l9BI27jUIpc26stgWy3EosWGaWWZ5LFJkFKEjCZxmUIBq8rztXBjNhl9P6yhllVAhOuSDVdLf14OZl-WpvGBX_YyeMQ61RmWTpAImCcxEd9HXo6NHD-xz9PCFYzWp8KYQssgVfrSQj_ZRWkJqxIXdI69A-IKLZB_cFlAWfkDxAN-CwhBZV9_L-xx2iGW0-sGzpMvQAAAA&tenantId=6001
+
+#EXTINF:-1 tvg-id="118.unifi" ch-number="113" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(UNIFI)" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
+=================================
+=================================
+LAIN2 CHANNELS
+
+#EXTINF:-1 tvg-id="nothing" ch-number="621" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(LAIN2)" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png",BABY SHARK TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#####https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
+#####https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-id="5ff8c708653d080007361b14" ch-number="417" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(LAIN2)" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png",Paramount+ Picks
+https://jmp2.uk/PlutoTV/5ff8c708653d080007361b14-alt.m3u8
+#####https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" ch-number="417" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(LAIN2)" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png",Pluto TV Action
+https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+
+#EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" ch-number="417" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="🇲🇾 Malaysia(LAIN2)" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",Pluto TV Horror
+https://jmp2.uk/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
+=================================
+=================================
