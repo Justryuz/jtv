@@ -86,6 +86,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
 http://ktpremium.com:2095/PPT6832/62843/912833
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Astro" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
+https://linears-playback.astro.com.my/vsg/41NQ0BY9fYWpazUOpVOitDpOg-N_7fSk8LQY-SP5T0vdI=wBjf/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1702

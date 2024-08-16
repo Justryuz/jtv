@@ -39,6 +39,11 @@ https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 group-title="Channel 4 Beradik [On/Off]"  tvg-id="AstroRia" ch-number="104" group-logo="https://i.ibb.co/N90QkY0/OEOE.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria (Not Stable)
 http://31.42.187.37:25461/live/watchpad13155/1234/68.m3u8|Referer=https://www.tvmalaysialive.site/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Channel 4 Beradik [On/Off]" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
+https://linears-playback.astro.com.my/vsg/41NQ0BY9fYWpazUOpVOitDpOg-N_7fSk8LQY-SP5T0vdI=wBjf/dash-wv/jitp-linearwm/1004/default_ott.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
