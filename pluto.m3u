@@ -269,17 +269,14 @@ https://jmp2.uk/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-652e922db4b047000825f975" tvg-id="652e922db4b047000825f975" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" tvg-chno="707" group-title="Noticias" , Milenio Televisión
 https://jmp2.uk/PlutoTV/652e922db4b047000825f975-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="795" group-title="Fútbol" , Chilevision Deportes
-https://jmp2.uk/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64b02bbd7d93410008fdae60" tvg-id="64b02bbd7d93410008fdae60" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" tvg-chno="815" group-title="Fútbol" , DAZN Women's Football
-https://jmp2.uk/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-6582f002a620e3000813b329" tvg-id="6582f002a620e3000813b329" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" tvg-chno="829" group-title="Deportes" , Azteca Deportes Network
 https://jmp2.uk/PlutoTV/6582f002a620e3000813b329-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6320d80a66666000086712d7" tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG.png" tvg-chno="835" group-title="Deportes" , Claro Sports
 https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="836" group-title="Deportes" , Chilevision Deportes
+https://jmp2.uk/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" tvg-chno="839" group-title="Deportes" , ITV Deportes
 https://jmp2.uk/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
@@ -295,6 +292,9 @@ https://jmp2.uk/PlutoTV/64df7a9a44fe100009b6ac5a-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-64f6163a30ab3300083d870e" tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" tvg-chno="862" group-title="Deportes" , PFL MMA
 https://jmp2.uk/PlutoTV/64f6163a30ab3300083d870e-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64b02bbd7d93410008fdae60" tvg-id="64b02bbd7d93410008fdae60" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" tvg-chno="871" group-title="Deportes" , DAZN Women's Football
+https://jmp2.uk/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6650bf1a3d173b00081c8279" tvg-id="6650bf1a3d173b00081c8279" tvg-logo="https://images.pluto.tv/channels/6650bf1a3d173b00081c8279/colorLogoPNG.png" tvg-chno="919" group-title="South Park" , South Park: Celebrities
 https://jmp2.uk/PlutoTV/6650bf1a3d173b00081c8279-alt.m3u8
