@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "id": "",
+    "name": "Lofi Synthwave",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1724133699/ei/49zDZtO-L5mwlu8P6vPIiQ8/ip/172.183.53.128/id/4xDzrJKXOOY.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/Mv1m9rhrL39FoM8O5z6YzB0AqXO2kHkSaxVMAZCBbgluSqUapscejv9fOqq656A/vprv/1/playlist_type/DVR/mh/PJ/mm/44/mn/sn-vgqsrnld/ms/lva/mv/u/mvi/1/pl/19/dover/11/pacing/0/keepalive/yes/mt/1724108931/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAP8GEI-whBs1lYEGB83edHw6KiAYr8J1Nz2a4-JMaYZfAiAmct_p4ZyYPB2euZz73m6wKuenBk858tqs8x5CFhMrcA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRgIhAPFdgH-7Y_fRCbyCUwwEaid4FMMdK-ZLzcR4LRK8xr4JAiEA_xEtwlQiP6Nt-KWMCenH5gYr9Zg9_ltTQzTQA_QbIzo%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  }
+]
