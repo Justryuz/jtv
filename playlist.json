@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "id": "",
+    "name": "Lofi Dub Reggae",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1730257264/ei/EE0hZ4PbGYyCkucP1PXBiQg/ip/20.55.222.101/id/jBLapoJrkf8.17/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-t0aekn7e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/qtApATKDThR2x5OqzJQ5b8yNYoPBB0JoTE8FFTkMBUgtYFyqZg3WqjoUVWuuxYE/vprv/1/playlist_type/DVR/met/1730235665,/mh/dW/mm/44/mn/sn-t0aekn7e/ms/lva/mv/u/mvi/2/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51312688,51326931/mt/1730235280/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPM-FsGJtTm4_R_yTwsR9nZAW21GWdE6Q8MEArAowmNSAiEAnNnWs-gYkWe-mizWBn8gMCm7KiCQiKhGWsXJ8vy5c3M%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACJ0pHgwRgIhAMEy_YqpvjVXxk9y7or0FaeqOsrRToD0EzNny3ZaRahfAiEA8zvG4fvWg2DmwTv3LFWOwjFbIQD6Ep_sQgtl5hHqd6c%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  }
+]
