@@ -84,18 +84,18 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
-http://ktpremium.com:2095/PPT6832/62843/912833
+http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Astro" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-https://linears-playback.astro.com.my/vsg/41NQ0BY9fYWpazUOpVOitDpOg-N_7fSk8LQY-SP5T0vdI=wBjf/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1702
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPrimaHD
-http://ktpremium.com:2095/PPT6832/62843/25862
+http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #http://dmtn.tv:8080/live/steveny5997/54332611/380022.m3u8
@@ -104,11 +104,7 @@ http://ktpremium.com:2095/PPT6832/62843/25862
 http://ktpremium.com:2095/PPT6832/62843/912835
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
-#http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1706
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
-http://ktpremium.com:2095/PPT6832/62843/25867
-#http://ktpremium.com:2095/PPT6832/62843/912836
+http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
@@ -130,12 +126,10 @@ http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71025
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAuraHD
 
 #EXTINF:-1 tvg-id="AstroPremier" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPremierHD
-#ttp://mytv-extra.com:80/t12mgxyb335/9832948789/191997
-#ttp://mytv-extra.com:80/t12mgxyb335/9832948789/191998
-#ttp://mytv-extra.com:80/t12mgxyb335/9832948789/192016
-http://ktpremium.com:2095/PPT6832/62843/25964
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71076
+http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
+
+#EXTINF:-1 tvg-id="AstroPremier" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier 2
+http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
 http://ktpremium.com:2095/PPT6832/62843/25959
@@ -144,27 +138,19 @@ http://ktpremium.com:2095/PPT6832/62843/25959
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/192011
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVinmeenHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png",Astro Vinmeen
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroVinmeenHD
+http://d1w72er2qn2fg9.cloudfront.net/vin.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVellithirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
-#http://dmtn.tv:8080/live/steveny5997/54332611/380126.m3u8
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroVellithiraiHD
-http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71100?play_token=shareext
+http://d1w72er2qn2fg9.cloudfront.net/thang.mpd
  
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="BoxOfficeThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png",Astro Boxoffice Thangathirai
-#http://dmtn.tv:8080/live/steveny5997/54332611/379001.m3u8
+http://d1w72er2qn2fg9.cloudfront.net/thang.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
-http://ktpremium.com:2095/PPT6832/62843/25968
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/191841
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1723
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAecHD
+http://d1w72er2qn2fg9.cloudfront.net/aec.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
-http://ktpremium.com:2095/PPT6832/62843/25970
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/191974
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1728
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroQJ
+http://d1w72er2qn2fg9.cloudfront.net/qj.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroHuaHeeDai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
 http://ktpremium.com:2095/PPT6832/62843/25973
@@ -173,7 +159,7 @@ http://ktpremium.com:2095/PPT6832/62843/25973
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroHuaHeeDaiHD
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAODHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 311
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71049?play_token=shareext
+http://d1w72er2qn2fg9.cloudfront.net/aod.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAOD352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 352
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AOD352
@@ -750,7 +736,7 @@ http://ktpremium.com:2095/PPT6832/62843/26165
 
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersportUHD" tvg-logo="https://pictr.com/images/2023/05/19/EMxTMA.png",ASTRO Supersport UHD
-http://dmtn.tv:8080/live/steveny5997/54332611/379977.m3u8
+http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ASTRO ARENA 1
 http://ktpremium.com:2095/PPT6832/62843/26308
@@ -778,18 +764,10 @@ http://ktpremium.com:2095/PPT6832/62843/912890
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroArenaBola2HD
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
-http://ktpremium.com:2095/PPT6832/62843/26312
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/191869
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1722
-#http://dmtn.tv:8080/live/steveny5997/54332611/379978.m3u8
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroSupersport1HD
+http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2
-http://ktpremium.com:2095/PPT6832/62843/26313
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/191870
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1721
-#http://dmtn.tv:8080/live/steveny5997/54332611/379980.m3u8
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroSupersport2HD
+http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
 http://ktpremium.com:2095/PPT6832/62843/26314
