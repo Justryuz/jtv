@@ -3290,13 +3290,13 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_servi
 https://ert0.short.gy/tonton_NTV7
 
 #EXTINF:-1 tvg-id="3.tonton" group-logo="https://i.ibb.co/N90QkY0/OEOE.jpg" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON" group-title="Tonton", 8TV
-https://ert0.short.gy/tonton_8TV
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-id="4.tonton" group-logo="https://i.ibb.co/N90QkY0/OEOE.jpg" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON" group-title="Tonton", TV9
-https://ert0.short.gy/tonton_TV9
+https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-id="5.tonton" group-logo="https://i.ibb.co/N90QkY0/OEOE.jpg" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON" group-title="Tonton", Drama Sangat
-https://ert0.short.gy/tonton_DS
+https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1732648068~hmac=9c89ea69ae0f4190ac97743a87de6451ab9d25c6188ad0fdd16c2909980f024d
 
 #EXTINF:-1 tvg-id="6.tonton" group-logo="https://i.ibb.co/N90QkY0/OEOE.jpg" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6430002:378:CHANNEL:IMAGE:png&w=200&appID=TONTON" group-title="Tonton", tvN
 https://ert0.short.gy/tonton_tvN
