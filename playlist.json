@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "id": "",
+    "name": "Lofi Hip Hop 2",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Music"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1735588856/ei/mKdyZ7KsG8q6kucPo4fAgAI/ip/20.55.86.179/id/jfKfPfyJRdk.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr10---sn-4h.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/x-caUODJwkJAeo2wgmxucrQhFMQtqlb_JgADC8tKSv93J9ERbZNj-DXwrG9LYtY/vprv/1/playlist_type/DVR/initcwndbps/1427500/met/1735567256,/mh/rr/mm/44/mn/sn-4h/ms/lva/mv/m/mvi/10/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51355912,51371294/mt/1735566756/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgO6S-HEDpTPIf5ZSLJYsYzSRnr_Zji9K6mKvOVdl3DDUCICjOiz-FzYuso7GPbxZ4_T7xmIh_iA0A5S6NMPuGBZ9S/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRgIhAP6LI959C3hzEiWY59dFmPOjrhV84x36hAcf2qu6qKHhAiEAr1Rqp4yGAuT7plAlqU3OxOd8IVDNHRwzNRNf_8ktv2Y%3D/playlist/index.m3u8",
+    "logo": "https://iili.io/JQxnxZN.jpg"
+  }
+]
