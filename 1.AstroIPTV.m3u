@@ -16,22 +16,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=
 #EXTINF:-1 tvg-id="TV2.HD.my" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="AstroIPTV",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=2
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+
 #EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png"  tvg-logo="https://www.dropbox.com/scl/fi/mb3u7rj25t3z9vj77v2le/Tv3.png?rlkey=n21x3yuld1vtfxsxszubldem0&dl=1",103 TV3
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
+#EXTVLCOPT:http-referrer=https://zazerconer.github.io/
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&hdnts=exp=null~hmac=505028eef5a2ae6aaf0d8ba02a87ae0dd10fece160b15d43a1482328baae7286
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png"  tvg-logo="https://www.dropbox.com/scl/fi/mb3u7rj25t3z9vj77v2le/Tv3.png?rlkey=n21x3yuld1vtfxsxszubldem0&dl=1",103 TV3 Testing
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
-#https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTVLCOPT:http-referrer=https://zazerconer.github.io/
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&hdnts=exp=1737223761~hmac=971c48f7060c854bfb54e708f9d36c545735c6eddbaeb7c01b6182bdbdd5d00f
 
 #EXTINF:-1 group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://iili.io/JLHfQiN.png",103 TV3 (FHD)
