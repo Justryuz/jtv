@@ -113,6 +113,30 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%
 ###http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8d50adae071d1fc0e37af6bb7d69e895###
 
 
+-------------------ASTRO PREMIER------------------------------------
+##EXTINF:-1 tvg-id="AstroPremier" tvg-name="ASTRO PREMIER HD" tvg-logo="https://i.ibb.co/wN4yrwX/Astro-Premier.png" group-title="AstroIPTV",ASTRO PREMIER HD ✔️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+------------------------------------------------------------------
+
+-------------------ASTRO SENSASI------------------------------------
+
+#EXTINF:-1 group-title="AstroIPTV" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bdd71968a15b634b3e097173a8b7ea7b:0510cd2f13504601956fb58167de6bea
+#https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+https://haoyunlai.serv00.net/Smartv-1.php?id=Sensasi
+https://aseanic.github.io/hls/38.m3u8
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%24%E2%82%AC%CF%80%24%E2%88%86%24%C2%A1.%20m3u8
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
