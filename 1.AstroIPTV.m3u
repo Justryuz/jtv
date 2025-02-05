@@ -36,7 +36,8 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_servi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp.perfecttv.net/ria.mpd
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
+#https://linearjitp.perfecttv.net/ria.mpd
 ##https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/ria.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
@@ -57,7 +58,8 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
 #EXTINF:-1 tvg-id="107.astro" ch-number="107" group-title="AstroIPTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-http://d37lxn4ksn51zz.cloudfront.net/warna.mpd
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/W%40%C2%AE%CF%80%E2%88%86.m3u8
+#http://d37lxn4ksn51zz.cloudfront.net/warna.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 https://go.munzstore.xyz/shawarma.mpd
 https://tinyurl.com/yckjtuhf
@@ -75,7 +77,8 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/W%40%C2%AE%CF%80%E2%
 #EXTINF:-1 tvg-id="108.astro" ch-number="108" group-title="AstroIPTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-https://linearjitp.perfecttv.net/citra.mpd
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%C2%A9%EF%B8%8F%C2%A17%C2%AE%EF%B8%8F%E2%88%86.m3u8
+#https://linearjitp.perfecttv.net/citra.mpd
 ##https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/citra.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
@@ -96,14 +99,15 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%C2%A9%EF%B8%8F%C2%A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp.perfecttv.net/prima.mpd
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A1%CF%80%CF%80%E2%88%86.m3u8
+#https://linearjitp.perfecttv.net/prima.mpd
 ##https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/prima.mpd
 ##http://d14sysfrzu8fji.cloudfront.net/prima.mpd
 #http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
-https://go.munzstore.xyz/primadona.mpd
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
-https://tinyurl.com/123PRIMA
+#https://go.munzstore.xyz/primadona.mpd
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
+#https://tinyurl.com/123PRIMA
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="AstroIPTV", Astro Prima (Backup)
 https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A1%CF%80%CF%80%E2%88%86.m3u8
