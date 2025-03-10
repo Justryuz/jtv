@@ -1799,3 +1799,37 @@ https://stream.hownetwork.xyz/yyy/queenpins-2021-2-bluray/13/480.m3u8
 
 #EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2018/04/film-beyond-the-edge-2018.jpg.webp", Beyond the Edge 
 https://stream.hownetwork.xyz/yyy/beyond-the-edge-2018-bluray/6/480.m3u8
+
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://cdn.moviefone.com/image-assets/159528/e4QOQvd61kaa7r58oaaHlvjtd30.jpg", Dodol Si Bujang Sepah
+https://archive.org/download/TeleflmRaya/Dodol.Si.Bujang.Sepah.2010.SDTV.mp4
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://i.ytimg.com/vi/KzT_jgsiJbo/hqdefault.jpg", Bocey Mencecey
+https://archive.org/download/TeleflmRaya/Bocey.Mencecey.2016.HDTV.mp4
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-AYBhEOHrjwNHtyQ6p81GgfGup-ZoDuFiNw&s", Geng Raya Zizan
+https://archive.org/download/TeleflmRaya/Geng.Raya.Zizan.2009.SDTV.mp4
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://cdn.moviefone.com/image-assets/947317/nt3SuwDJwVlUrs5Qoz8viVQffPE.jpg", Lemang Aidilfitri Si Bujang Sepah
+https://archive.org/download/TeleflmRaya/Lemang.Aidilfitri.Si.Bujang.Sepah.2009.SDTV.mp4
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2OUVPW616dvr2IFTe9ljikBf-kCCFGSU6_qyUuultsp7JQckcb7rRGL6nJEX_hMiAI2jDvnmiRL37mdVCeSMFsgy2N8ODXMbCJA_U57JzVdzyH1gaFOUmcAN3_NecMGej927iVyp6WMXG/s1600/Nak.Balik.Raya.2010.jpg", Nak Balik Raya
+https://archive.org/download/TeleflmRaya/Nak.Balik.Raya.2010.SDTVrip.mp4
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ1MGJjMzEtZmRjMS00NmIwLWFhMTYtZjU2M2NkZDlhODA3XkEyXkFqcGc@._V1_.jpg", Salah Susuk Raya
+https://archive.org/download/TeleflmRaya/Salah.Susuk.Raya.2015.HDTV.mp4
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3gTUgLBM2iYX3l25O1x3XldnUrFCs44CI0MOngJGlZ7gR_7HDHDtcgVnZH-E0FFrcrWylCwIRr9Nf9CGV-Y0LrE1JgjmE0JkHxrAiJAzevX9ziDep09ojMF90dWOgpC9tIW-tTX6NIdCY/w0/Sepahtu+Cinta+Plastik.png", Sepahtu Cinta Plastik
+https://archive.org/download/TeleflmRaya/Sepahtu.Cinta.Plastik.2016.HDTV.mp4
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://cdn.moviefone.com/image-assets/455936/wx4w23To8nBXmtD6dUyZnUL1GeY.jpg", Sepahtu Kepok Bonda
+https://archive.org/download/TeleflmRaya/Sepahtu.Kepok.Bonda.2014.HDTV.mp4
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfuOZLaRWNoh8ck96dJ0kI7NU_Fm6nRk9kKC90Oftntu4iSBgTCQ43KRau9J1E7mKEw-DaBuj8Q3yIEc8J2Y5k-F1BKgFZrSqTpVOiVTW8n2_xZWSb_h4JzHT36v7uopPMup1ycXl7xgs/s1600/Sepahtu+Kisah+Tauladan.jpg", Sepahtu Kisah Tauladan
+https://archive.org/download/TeleflmRaya/Sepahtu.Kisah.Tauladan.2016.HDTV.mp4
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghPlKbb8-XMVmiFmG5DbxXUZZhgg4nwjW0JtldEjV_NDfdClDdDE3mJd_xK4wznuHcVlQsaDJ7sXHGoqo6fBG3JFuOT2v0LP281knv9vjiSDwF0GqDEss3xON43fqrNPHga8DjuH7K92GS/w0/Sepahtu+Mercun+Raya.png", Sepahtu Mercun Raya
+https://archive.org/download/TeleflmRaya/Sepahtu.Mercun.Raya.2016.HDTV.mp4
+
+#EXTINF:-1 tvg-id="VOD" tvg-name="Test VOD" group-title="VOD Test" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9MDeLAJTXJxDkfeOgYeDla_hC88P2fzQETP4FQu96_2FVNvjqFTpFEPEIoVFzqdAqAos58MGLxSJU6hsL3uHSNnOLMoFAmvb838s6mTinslaoOpvNgr_OuXj4LCOO4KQkuRAPS2CWRVRl/w0/Terputusnya+Sebuah+Doa+Astro+Ria.jpg", Terputusnya Sebuah Doa
+https://archive.org/download/TeleflmRaya/Terputusnya.Sebuah.doa.720p.mp4
