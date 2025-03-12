@@ -20,7 +20,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=null&category=all&mm_sp
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="AstroIPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 FHD Server 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -35,14 +35,12 @@ https://manifest.bapok.best/UnifiTV/TV3.mpd
 #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
 #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
 #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="AstroIPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 FHD Server 2
-https://centerrrs.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6I0o%2FoIw83oXLZFVYSQnBBI%2FiKpnGDOVh7xgstdkkeZwTJycHE0IqZBvG%2BXsudj34k%3A20240728232643%3AUTC%2C10001002674171%2C1.1.1.1%2C20240728232643%2Curn:Huawei:liveTV:iptv182%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
-
-
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="104.astro" ch-number="104" group-title="AstroIPTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -89,15 +87,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/W%40%C2%AE%CF%80%E2%
 #EXTINF:-1 tvg-id="108.astro" ch-number="108" group-title="AstroIPTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%C2%A9%EF%B8%8F%C2%A17%C2%AE%EF%B8%8F%E2%88%86.m3u8
-#https://linearjitp.perfecttv.net/citra.mpd
-##https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
-##http://d14sysfrzu8fji.cloudfront.net/citra.mpd
-#http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
-#http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
-https://go.munzstore.xyz/citrarasa.mpd
-https://tinyurl.com/muhujwmk
-https://tinyurl.com/123CITRA
+https://jandatv.online/memfs/ee3ab236-be4f-4a9c-8027-5701232933c6.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="AstroIPTV", Astro Citra (Backup)
@@ -1138,8 +1128,7 @@ http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-#http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
+https://jandatv.online/memfs/ee3ab236-be4f-4a9c-8027-5701232933c6.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1161,11 +1150,7 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
 #EXTINF:-1 tvg-id="Astro" ch-number="107" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/citra.png",ASTRO CITRA HD ✔️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-#http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
-#https://go.munzstore.xyz/citrarasa.mpd
-#https://tinyurl.com/muhujwmk
-#https://tinyurl.com/123CITRA
+https://jandatv.online/memfs/ee3ab236-be4f-4a9c-8027-5701232933c6.m3u8
 
 #EXTINF:-1 tvg-id="Astro" ch-number="107" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/ayahdee/iptv.xtro/refs/heads/main/warna.png",ASTRO WARNA HD ✔️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1197,8 +1182,7 @@ http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700
-http://d1w72er2qn2fg9.cloudfront.net/citra.mpd 
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
+https://jandatv.online/memfs/ee3ab236-be4f-4a9c-8027-5701232933c6.m3u8
  
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD B
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1226,7 +1210,7 @@ http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700
-http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
+https://jandatv.online/memfs/ee3ab236-be4f-4a9c-8027-5701232933c6.m3u8
   
    
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD B
