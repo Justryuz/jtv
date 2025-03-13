@@ -15,5 +15,5 @@ def merge_m3u(files, output_file):
 
 # Example usage after your existing M3U generation code
 files_to_merge = ['DewaNontonVOD.m3u','mimpipi22m3u8','playlist.m3u','mylist.m3u8','1.AstroIPTV.m3u','6.other.m3u8','Playlist6.m3u', '7.hello.m3u8','2.ayahdee.m3u', '0.tvseries.m3u', 'za.m3u']
-output_filename = 'merged_playlist.m3u'
+output_filename = 'daily_playlist.m3u'
 merge_m3u(files_to_merge, output_filename)
