@@ -3,44 +3,41 @@ name: M3U generator
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # Runs every hour
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.12  # You can switch to 3.12 if you want, but 3.11 is safest for now.
+          python-version: '3.11'  # You can change to 3.12 if compatibility confirmed
 
-      - name: Install System Dependencies
+      - name: Install system dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y libxml2-dev libxslt1-dev python3-dev build-essential
-          pip install -r requirements.txt
 
-      - name: Install Python Dependencies
+      - name: Install Python dependencies
         run: |
-          pyenv install 3.11.8  # or 3.12.x
-          pyenv local 3.11.8
           python -m pip install --upgrade pip
-          pip install lxml --only-binary :all:
           pip install -r requirements.txt
 
-      - name: Run Script
+      - name: Run M3U Generator script
         run: python scripts/generator.py
 
-      - name: Check for Changes
-        id: git-check
+      - name: Check for changes
+        id: changes
         run: |
-          git diff --quiet || echo "changes_exist=true" >> $GITHUB_OUTPUT
+          git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
 
-      - name: Commit Changes
-        if: steps.git-check.outputs.changes_exist == 'true'
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
         run: |
           git config --global user.email "visionintegral@gmail.com"
           git config --global user.name "zeknewbe"
