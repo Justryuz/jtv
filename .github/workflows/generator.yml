@@ -20,13 +20,15 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y libxml2-dev libxslt1-dev python3-dev
+          sudo apt-get install -y libxml2-dev libxslt-dev python3-dev build-essential
+          pip install -r requirements.txt
 
       - name: Install Python Dependencies
         run: |
           python3.12 -m venv venv
           source venv/bin/activate
-          pip install lxml==4.9.3 --use-pep517
+          pyenv install 3.12.2
+          pyenv global 3.12.2
           pip install -r requirements.txt
 
       - name: Run Script
