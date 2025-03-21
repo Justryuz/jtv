@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.12'  # You can change to 3.12 if compatibility confirmed
+          python-version: '3.12.1'  # You can change to 3.12 if compatibility confirmed
 
       - name: Install system dependencies
         run: |
@@ -45,4 +45,4 @@ jobs:
           git config --global user.name "zeknewbe"
           git add -A
           git commit -m "Update M3U Playlist"
-          git push
+          git push --no-verify
