@@ -8,7 +8,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=2
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MiniTV",TV3
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=null&category=all&mm_sp
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=null&category=all&mm_sp
 
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png" group-title="MiniTV",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/index.m3u8?id=6
