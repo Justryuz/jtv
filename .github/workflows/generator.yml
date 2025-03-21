@@ -1,6 +1,7 @@
 name: M3U generator
 
 on:
+  # Triggers the workflow manually and on a schedule every hour
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
@@ -15,15 +16,13 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.10'
+          python-version: '3.x'
 
       - name: Install System Dependencies
-        run: sudo apt-get install -y libxml2-dev libxslt-dev gcc
+        run: sudo apt-get install -y libxml2-dev libxslt-dev
 
       - name: Install Python Dependencies
-        run: |
-          pip install --upgrade pip
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run Script
         run: python scripts/generator.py
