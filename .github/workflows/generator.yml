@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'  # You can change to 3.12 if compatibility confirmed
+          python-version: '3.13'  # You can change to 3.12 if compatibility confirmed
 
       - name: Install system dependencies
         run: |
