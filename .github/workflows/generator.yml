@@ -15,12 +15,12 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.12'
+          python-version: '3.11'
 
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y libxml2-dev libxslt-dev python3-dev build-essential
+          sudo apt-get install libxml2-dev libxslt1-dev python3-dev build-essential libssl-dev libffi-dev
           pip install -r requirements.txt
 
       - name: Install Python Dependencies
