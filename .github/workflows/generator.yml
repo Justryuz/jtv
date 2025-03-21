@@ -15,22 +15,17 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.11  # or 3.12
+          python-version: 3.11  # You can switch to 3.12 if you want, but 3.11 is safest for now.
 
       - name: Install System Dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y libxml2-dev libxslt-dev python3-dev
-          pip install lxml --only-binary :all:
-          pip install -r requirements.txt
-
 
       - name: Install Python Dependencies
         run: |
-          python3.12 -m venv venv
-          source venv/bin/activate
-          pyenv install 3.12.2
-          pyenv global 3.12.2
+          python -m pip install --upgrade pip
+          pip install lxml --only-binary :all:
           pip install -r requirements.txt
 
       - name: Run Script
